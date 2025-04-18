@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-18 18:17:42 +0000"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
@@ -485,6 +497,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-04-18 23:30:08 +0000"
+    },
+    "done": false
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-04-18 04:02:01 +0000"
@@ -512,6 +530,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -684,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-04-18 04:13:03 +0000"
@@ -735,6 +765,12 @@
   "ars_nouveau:recipes/ars_nouveau/red_sbed": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -846,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-18 22:40:17 +0000"
@@ -873,6 +915,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/smithing/netherite_opal_knife": {
+    "criteria": {
+      "has_ingots/netherite": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -924,6 +972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -939,6 +993,12 @@
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/smithing/obsidian_blacksmith_gavel": {
+    "criteria": {
+      "has_item": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -1225,6 +1285,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-18 23:29:51 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-04-18 04:02:00 +0000"
@@ -1234,6 +1300,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -1427,6 +1499,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -1874,6 +1952,18 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-04-18 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -2770,6 +2860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-04-18 04:02:01 +0000"
@@ -2888,6 +2984,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 22:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -3124,6 +3226,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-18 18:37:19 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -3453,6 +3561,18 @@
     },
     "done": true
   },
+  "upgradednetherite_ultimate:recipes/essences/ultimate_upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2025-04-18 04:27:40 +0000"
@@ -3766,6 +3886,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/supernal_netherite_ingot_smithing": {
+    "criteria": {
+      "has_item": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -3787,6 +3913,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -4301,6 +4433,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 04:34:44 +0000",
@@ -4428,6 +4566,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 04:35:14 +0000"
@@ -4437,6 +4581,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -4975,6 +5125,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 23:29:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -5043,6 +5199,7 @@
       "minecraft:beach": "2025-04-18 18:13:26 +0000",
       "minecraft:dark_forest": "2025-04-18 19:40:59 +0000",
       "atmospheric:flourishing_dunes": "2025-04-18 22:28:14 +0000",
+      "minecraft:mangrove_swamp": "2025-04-18 23:45:57 +0000",
       "minecraft:sparse_jungle": "2025-04-18 18:10:05 +0000",
       "minecraft:river": "2025-04-18 18:13:20 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 19:51:38 +0000",
@@ -5055,12 +5212,14 @@
       "minecraft:ocean": "2025-04-18 19:34:18 +0000",
       "minecraft:jungle": "2025-04-18 19:48:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 19:40:55 +0000",
+      "minecraft:windswept_savanna": "2025-04-18 23:48:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-18 19:52:17 +0000",
       "atmospheric:scrubland": "2025-04-18 23:10:58 +0000",
       "atmospheric:laurel_forest": "2025-04-18 04:59:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 18:11:28 +0000",
       "minecraft:deep_dark": "2025-04-18 04:48:15 +0000",
-      "minecraft:meadow": "2025-04-18 19:40:47 +0000"
+      "minecraft:meadow": "2025-04-18 19:40:47 +0000",
+      "minecraft:plains": "2025-04-18 23:49:14 +0000"
     },
     "done": false
   },
@@ -5121,6 +5280,12 @@
   "twigs:recipes/tuff/tuff_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/supernal_netherite_ingot_smithing_from_core": {
+    "criteria": {
+      "has_item": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -5376,6 +5541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 23:29:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-18 19:53:34 +0000"
@@ -5536,7 +5707,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2025-04-18 04:29:34 +0000"
+      "has_parent_recipe": "2025-04-18 04:29:34 +0000",
+      "has_items2": "2025-04-18 23:30:08 +0000"
     },
     "done": false
   },
@@ -5618,6 +5790,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2025-04-18 23:49:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -5667,6 +5845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
@@ -5706,6 +5890,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-04-18 19:18:58 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-04-18 23:29:39 +0000"
     },
     "done": true
   },
@@ -5802,6 +5992,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-04-18 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/old_netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -6046,6 +6242,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_spruce_planks": "2025-04-18 23:14:06 +0000"
@@ -6168,7 +6370,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2025-04-18 04:02:00 +0000"
+      "has_parent_recipe": "2025-04-18 04:02:00 +0000",
+      "has_items3": "2025-04-18 23:30:08 +0000"
     },
     "done": false
   },
@@ -6253,6 +6456,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 22:45:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -6373,6 +6582,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-18 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-04-18 23:29:39 +0000"
     },
     "done": true
   },
@@ -6568,6 +6783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/astral_potato": {
     "criteria": {
       "has_items": "2025-04-18 04:43:02 +0000"
@@ -6659,6 +6880,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-18 23:29:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -6722,6 +6949,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
@@ -6858,6 +7091,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_items2": "2025-04-18 23:30:08 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-04-18 17:55:25 +0000"
@@ -6981,6 +7220,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-18 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
     },
     "done": true
   },
