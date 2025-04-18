@@ -2327,6 +2327,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-04-18 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 19:58:30 +0000"
@@ -2540,6 +2546,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-04-18 21:13:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-18 17:40:38 +0000"
@@ -2634,6 +2646,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-04-18 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "cursed_eye": "2025-04-18 21:13:11 +0000"
     },
     "done": true
   },
@@ -3311,6 +3329,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 21:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 07:10:33 +0000"
@@ -3446,6 +3470,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-18 20:13:48 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2025-04-18 21:13:08 +0000"
     },
     "done": true
   },
@@ -4172,9 +4202,27 @@
     },
     "done": false
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-04-18 21:13:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_items2": "2025-04-18 21:13:08 +0000"
+    },
+    "done": false
+  },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-04-18 19:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-18 21:12:57 +0000"
     },
     "done": true
   },
@@ -5705,6 +5753,12 @@
       "in_water": "2025-04-18 07:09:05 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_items1": "2025-04-18 21:13:08 +0000"
+    },
+    "done": false
   },
   "ars_elemental:recipes/decorations/alt_blossom": {
     "criteria": {

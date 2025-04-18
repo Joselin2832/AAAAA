@@ -2960,3 +2960,37 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 21:04:13.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
 [18Apr2025 21:04:14.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
 [18Apr2025 21:04:30.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[18Apr2025 21:08:10.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Brightsteel Block] to Joselin23]
+[18Apr2025 21:10:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 3 [Gem Dust] to Joselin23]
+[18Apr2025 21:11:40.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Sweet Dreams]
+[18Apr2025 21:12:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 21:12:18.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[18Apr2025 21:12:20.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[18Apr2025 21:12:36.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[18Apr2025 21:12:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Those Were the Days]
+[18Apr2025 21:13:04.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [War Pigs]
+[18Apr2025 21:13:08.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Supersolid Wizard]
+[18Apr2025 21:13:11.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [The Beginning of An Adventure]
+[18Apr2025 21:13:11.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [A New Protector...]
+[18Apr2025 21:13:48.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[18Apr2025 21:13:49.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[18Apr2025 21:13:50.008] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[18Apr2025 21:13:50.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[18Apr2025 21:13:50.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[18Apr2025 21:13:50.577] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[18Apr2025 21:13:50.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[18Apr2025 21:13:59.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12918, l='ServerLevel[world]', x=1885.50, y=80.00, z=3894.50]
+[18Apr2025 21:14:00.957] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12940, l='ServerLevel[world]', x=1925.50, y=76.00, z=3862.50]
+[18Apr2025 21:14:04.037] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[18Apr2025 21:14:04.050] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[18Apr2025 21:14:04.050] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[18Apr2025 21:14:04.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/10943, l='ServerLevel[world]', x=475.82, y=87.11, z=749.40] died: Samuel the Pit Master was slain by Joselin23
+[18Apr2025 21:15:12.630] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[18Apr2025 21:15:16.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Guns and Roses]
+[18Apr2025 21:15:21.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[18Apr2025 21:15:24.306] [Worker-Main2/WARN] [ModernFix/]: The namespace bygonenether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 21:15:34.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [How'd You Get This?]
+[18Apr2025 21:15:35.095] [Worker-Main1/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 21:15:36.453] [Worker-Main1/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 21:15:37.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Penteconter]
+[18Apr2025 21:16:30.899] [Worker-Main7/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
