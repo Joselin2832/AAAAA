@@ -1,0 +1,35 @@
+{
+	id: "947e6930-2033-473f-ac0e-7fd20607bcde"
+	type: "party"
+	owner: "a0d83634-7b19-37e4-b8c9-a290e08b9bb8"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Gress's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DA59FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744942227905L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Gress\"}]}" }
+		{ from: "a0d83634-7b19-37e4-b8c9-a290e08b9bb8", date: 1744942227909L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NachoSigma04\"}]}" }
+		{ from: "a0d83634-7b19-37e4-b8c9-a290e08b9bb8", date: 1744942227909L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ignacio29392\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744942231318L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ignacio29392\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744942232056L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NachoSigma04\"}]}" }
+		{ from: "3b2022e1-5f64-368d-b807-60e46ae2ee21", date: 1744999123659L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ignacio29392\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info GresssParty#947e6930\"},\"text\":\"Gress's Party\"}]}" }
+		{ from: "3b2022e1-5f64-368d-b807-60e46ae2ee21", date: 1744999123660L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"NachoSigma04\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info GresssParty#947e6930\"},\"text\":\"Gress's Party\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744999123662L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Gress\"}]}" }
+	]
+	extra: { }
+}

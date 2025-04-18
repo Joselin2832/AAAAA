@@ -2,9 +2,7 @@
 	id: "cb2e0971-64cb-3005-a2fd-51e965e9777b"
 	type: "player"
 	player_name: "Lophez341"
-	ranks: {
-		cb2e0971-64cb-3005-a2fd-51e965e9777b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Lophez341"
 		"ftbteams:description": ""

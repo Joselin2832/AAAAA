@@ -2,7 +2,9 @@
 	id: "cb2390a0-eefd-3170-8844-fbbfc7609e31"
 	type: "player"
 	player_name: "Ignacio29392"
-	ranks: { }
+	ranks: {
+		cb2390a0-eefd-3170-8844-fbbfc7609e31: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "Ignacio29392"
 		"ftbteams:description": ""

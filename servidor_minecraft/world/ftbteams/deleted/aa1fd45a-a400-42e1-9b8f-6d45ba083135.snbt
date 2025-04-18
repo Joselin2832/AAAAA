@@ -1,0 +1,32 @@
+{
+	id: "aa1fd45a-a400-42e1-9b8f-6d45ba083135"
+	type: "party"
+	owner: "3b2022e1-5f64-368d-b807-60e46ae2ee21"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Joselin23's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744999070462L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Joselin23\"}]}" }
+		{ from: "3b2022e1-5f64-368d-b807-60e46ae2ee21", date: 1744999070470L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lophez341\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744999073162L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lophez341\"}]}" }
+		{ from: "3b2022e1-5f64-368d-b807-60e46ae2ee21", date: 1744999130809L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lophez341\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Joselin23sParty#aa1fd45a\"},\"text\":\"Joselin23's Party\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1744999130811L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Joselin23\"}]}" }
+	]
+	extra: { }
+}
