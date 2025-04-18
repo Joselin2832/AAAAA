@@ -3119,3 +3119,50 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 23:21:44.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was shot by Wither Skeleton
 [18Apr2025 23:21:50.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
 [18Apr2025 23:21:54.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 11680.500000, 112.500000, 15364.500000]
+[18Apr2025 23:22:04.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 23:22:05.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> calma
+[18Apr2025 23:22:16.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 23:22:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[18Apr2025 23:22:48.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[18Apr2025 23:22:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 23:22:51.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[18Apr2025 23:22:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> si
+[18Apr2025 23:22:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> aqui esta
+[18Apr2025 23:23:15.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Wither Skeleton
+[18Apr2025 23:23:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[18Apr2025 23:24:05.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[18Apr2025 23:24:12.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[18Apr2025 23:24:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> oa
+[18Apr2025 23:24:32.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[18Apr2025 23:24:32.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[18Apr2025 23:24:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> dificil
+[18Apr2025 23:24:40.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[18Apr2025 23:25:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [An Ancient Tomb]
+[18Apr2025 23:28:22.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3679, l='ServerLevel[world]', x=11611.43, y=67.00, z=15354.62] died, message: 'Nitwit suffocated in a wall'
+[18Apr2025 23:29:19.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/9954, l='ServerLevel[world]', x=11618.90, y=79.00, z=15378.70] died: Gress was slain by Gress
+[18Apr2025 23:30:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was shot by Wither Skeleton
+[18Apr2025 23:30:37.089] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tpa Grass
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getCapability(net.minecraftforge.common.capabilities.Capability, net.minecraft.core.Direction)" because the return value of "fox.mods.tpa.procedures.SendTPAProcedure$2.getEntity()" is null
+	at fox.mods.tpa.procedures.SendTPAProcedure.execute(SendTPAProcedure.java:45) ~[tpa-1.4.1-1.19.2.jar%23538!/:?]
+	at fox.mods.tpa.command.TpaCommand.lambda$registerCommand$0(TpaCommand.java:33) ~[tpa-1.4.1-1.19.2.jar%23538!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263) ~[brigadier-1.0.18.jar%2374!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:240) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_242600_(ServerGamePacketListenerImpl.java:1239) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:1217) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[18Apr2025 23:31:14.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/11953, l='ServerLevel[world]', x=11631.70, y=79.00, z=15348.29] died: Gress was slain by Gress
+[18Apr2025 23:31:16.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Botfly
