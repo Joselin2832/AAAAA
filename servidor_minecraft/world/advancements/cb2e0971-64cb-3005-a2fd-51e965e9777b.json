@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-04-18 22:33:04 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/transmog.creative_tab/transmogrification_table": {
     "criteria": {
       "has_item": "2025-04-18 04:38:07 +0000"
@@ -272,6 +278,12 @@
   "twilightforest:recipes/twilightforest/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-04-18 18:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
     },
     "done": true
   },
@@ -864,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 04:34:44 +0000"
@@ -1280,6 +1298,13 @@
       "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2025-04-18 22:28:30 +0000",
+      "barrel_cactus": "2025-04-18 22:29:39 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
@@ -2542,6 +2567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-18 22:22:35 +0000"
@@ -2705,6 +2736,12 @@
       "has_journal": "2025-04-18 04:02:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-18 22:34:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -2870,6 +2907,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-04-18 18:24:39 +0000"
@@ -2903,6 +2952,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-04-18 22:33:04 +0000"
     },
     "done": true
   },
@@ -3249,6 +3304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -3427,6 +3488,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-04-18 04:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-04-18 22:33:04 +0000"
     },
     "done": true
   },
@@ -4043,6 +4110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-04-18 22:33:04 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -4344,6 +4417,7 @@
       "minecraft:deep_ocean": "2025-04-18 19:35:36 +0000",
       "atmospheric:rainforest_basin": "2025-04-18 19:51:53 +0000",
       "atmospheric:rainforest": "2025-04-18 18:10:20 +0000",
+      "atmospheric:spiny_thicket": "2025-04-18 22:29:36 +0000",
       "minecraft:birch_forest": "2025-04-18 19:38:50 +0000",
       "minecraft:bamboo_jungle": "2025-04-18 19:48:20 +0000",
       "minecraft:badlands": "2025-04-18 22:27:56 +0000",
@@ -4390,6 +4464,12 @@
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_recipe_result": "2025-04-18 04:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
     },
     "done": true
   },
@@ -4540,6 +4620,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-04-18 18:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
     },
     "done": true
   },
@@ -4724,6 +4810,12 @@
       "incendium:inverted_forest": "2025-04-18 19:08:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
     "criteria": {
@@ -5249,6 +5341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
@@ -5282,6 +5380,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-18 04:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
     },
     "done": true
   },
@@ -5462,6 +5566,12 @@
   "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:33:05 +0000"
     },
     "done": true
   },

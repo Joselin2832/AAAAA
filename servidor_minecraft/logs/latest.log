@@ -3417,3 +3417,172 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 22:28:31.008] [Worker-Main44/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [18Apr2025 22:28:58.495] [Worker-Main45/WARN] [ModernFix/]: The namespace morevillagers contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [18Apr2025 22:28:58.642] [Worker-Main45/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:29:08.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[18Apr2025 22:29:10.521] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:29:10.521] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:29:10.522] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:29:10.522] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:29:14.576] [Worker-Main42/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 2468 109 4737
+[18Apr2025 22:29:19.907] [Worker-Main44/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2559, y=12, z=4722}
+[18Apr2025 22:29:29.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[18Apr2025 22:29:29.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! -7.690309713139413,-2.1905168046295813,15.55939280207167
+[18Apr2025 22:29:29.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
+[18Apr2025 22:29:29.432] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[18Apr2025 22:30:05.836] [Worker-Main7/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:30:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [First Village]
+[18Apr2025 22:30:33.332] [Worker-Main44/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 2770 108 4398
+[18Apr2025 22:30:45.910] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=60, z=-262}
+[18Apr2025 22:30:45.910] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=60, z=-262}
+[18Apr2025 22:30:45.910] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=61, z=-262}
+[18Apr2025 22:30:45.910] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=61, z=-262}
+[18Apr2025 22:30:45.911] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=62, z=-262}
+[18Apr2025 22:30:45.911] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=62, z=-262}
+[18Apr2025 22:30:52.741] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=60, z=-272}
+[18Apr2025 22:30:52.741] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=60, z=-271}
+[18Apr2025 22:30:52.741] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=59, z=-270}
+[18Apr2025 22:30:52.741] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=60, z=-270}
+[18Apr2025 22:31:02.561] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-161, y=72, z=-36}
+[18Apr2025 22:31:02.561] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-157, y=68, z=-36}
+[18Apr2025 22:31:02.561] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-152, y=68, z=-39}
+[18Apr2025 22:31:02.726] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-150, y=69, z=-35}
+[18Apr2025 22:31:02.727] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-151, y=69, z=-43}
+[18Apr2025 22:31:11.022] [Worker-Main45/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:31:11.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42158ms or 843 ticks behind
+[18Apr2025 22:31:11.251] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=2755, y=31, z=4478}
+[18Apr2025 22:31:11.251] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=2755, y=30, z=4479}
+[18Apr2025 22:31:11.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! 6.088379125059873,-2.499167588225447,-16.37154962108525
+[18Apr2025 22:31:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 22:31:34.137] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:31:34.148] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:31:34.148] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:31:34.148] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:31:34.148] [Worker-Main45/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:31:36.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -367.500000, 71.000000, 10544.500000]
+[18Apr2025 22:31:37.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! 8.711208947856903,-5.771501104778395,-14.178075125260875
+[18Apr2025 22:31:38.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12282ms or 245 ticks behind
+[18Apr2025 22:31:48.816] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[18Apr2025 22:31:48.816] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[18Apr2025 22:32:13.419] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[18Apr2025 22:32:31.811] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:32:32.818] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[18Apr2025 22:32:46.580] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:32:46.580] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:32:46.580] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:32:46.580] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:32:57.821] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Apr2025 22:32:57.822] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[18Apr2025 22:32:57.822] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Apr2025 22:32:57.822] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[18Apr2025 22:32:57.822] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[18Apr2025 22:32:57.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -2351.500000, 72.000000, 12880.500000]
+[18Apr2025 22:32:57.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13032ms or 260 ticks behind
+[18Apr2025 22:32:58.071] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Apr2025 22:32:58.071] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[18Apr2025 22:32:58.071] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Apr2025 22:32:58.071] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[18Apr2025 22:32:58.072] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[18Apr2025 22:33:02.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! 14.024742358165895,-2.635127285182847,-10.435789378165282
+[18Apr2025 22:33:02.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! -13.995922725260243,9.74976521209885,-3.463416370883351
+[18Apr2025 22:33:02.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 moved too quickly! -0.8501573011403707,-10.593821145304673,0.635726810860433
+[18Apr2025 22:33:18.640] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[18Apr2025 22:33:25.761] [Worker-Main42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[18Apr2025 22:33:26.898] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[18Apr2025 22:33:26.898] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[18Apr2025 22:33:26.898] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[18Apr2025 22:33:26.898] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[18Apr2025 22:33:26.899] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[18Apr2025 22:33:32.670] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[18Apr2025 22:33:32.684] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[18Apr2025 22:33:32.703] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[18Apr2025 22:33:32.706] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[18Apr2025 22:33:38.316] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[18Apr2025 22:33:58.137] [Worker-Main45/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -2140 110 12873
+[18Apr2025 22:33:58.964] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:33:58.965] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:33:58.965] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:33:58.965] [Worker-Main44/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:33:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> y
+[18Apr2025 22:34:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> nose
+[18Apr2025 22:34:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 22:34:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[18Apr2025 22:34:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Joselin23
+[18Apr2025 22:34:24.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 22:34:24.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 22:34:24.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 22:34:24.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 22:34:24.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 22:34:24.079] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 22:34:24.079] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 22:34:31.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[18Apr2025 22:34:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[18Apr2025 22:34:34.160] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[18Apr2025 22:34:40.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2648, y=38, z=4183}
+[18Apr2025 22:34:40.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2648, y=38, z=4183}
+[18Apr2025 22:34:40.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2648, y=38, z=4183}
+[18Apr2025 22:34:40.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2648, y=38, z=4183}
+[18Apr2025 22:34:40.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2648, y=38, z=4183}
+[18Apr2025 22:35:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 22:35:45.107] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:35:45.107] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:35:45.107] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:35:45.107] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:35:53.538] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[18Apr2025 22:35:56.317] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[18Apr2025 22:35:56.949] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[18Apr2025 22:35:57.153] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[18Apr2025 22:35:57.179] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[18Apr2025 22:35:59.431] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[18Apr2025 22:35:59.431] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[18Apr2025 22:36:00.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -479.500000, 37.000000, 1216.500000]
+[18Apr2025 22:36:00.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19841ms or 396 ticks behind
+[18Apr2025 22:36:02.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! -10.041365120307091,3.419999986886978,-0.12487205422803527
+[18Apr2025 22:36:02.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a
+[18Apr2025 22:36:21.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Forgotten Wars and Kingdoms]
+[18Apr2025 22:36:26.159] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[18Apr2025 22:36:26.160] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1080}
+[18Apr2025 22:36:26.160] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1080}
+[18Apr2025 22:36:26.160] [Worker-Main45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1079}
+[18Apr2025 22:36:27.940] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1079}
+[18Apr2025 22:36:27.940] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1080}
+[18Apr2025 22:36:28.487] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=1076}
+[18Apr2025 22:36:28.487] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=1077}
+[18Apr2025 22:36:30.599] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1076}
+[18Apr2025 22:36:30.600] [Worker-Main44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-57, y=-58, z=1077}
+[18Apr2025 22:36:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 22:36:43.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Silvana Heartfire'/58902, l='ServerLevel[world]', x=-503.04, y=107.00, z=1198.13] died: Silvana Heartfire was slain by Joselin23
+[18Apr2025 22:36:59.920] [Worker-Main45/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -514 107 1011
+[18Apr2025 22:37:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> orita
+[18Apr2025 22:37:02.280] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[18Apr2025 22:37:02.280] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[18Apr2025 22:37:02.280] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[18Apr2025 22:37:02.280] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[18Apr2025 22:37:02.280] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
+[18Apr2025 22:37:02.281] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
+[18Apr2025 22:37:02.281] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
+[18Apr2025 22:37:02.281] [Worker-Main4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
+[18Apr2025 22:37:02.588] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[18Apr2025 22:37:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> estoy matando un boss
+[18Apr2025 22:37:07.908] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=65, z=20}
+[18Apr2025 22:37:07.909] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=65, z=23}
+[18Apr2025 22:37:07.909] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=65, z=25}
+[18Apr2025 22:37:07.909] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-5, y=65, z=24}
+[18Apr2025 22:37:13.607] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[18Apr2025 22:37:29.721] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:37:29.721] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:37:29.722] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:37:29.722] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:38:00.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/55638, l='ServerLevel[world]', x=2102.52, y=87.88, z=4628.54] died: Brog the Bulwark was slain by Lophez341
+[18Apr2025 22:38:04.046] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:38:04.046] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:38:04.046] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:38:04.046] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:38:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[18Apr2025 22:38:33.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tpeame
+[18Apr2025 22:38:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[18Apr2025 22:38:43.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> damecomida
+[18Apr2025 22:39:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Infinity Ham] to Joselin23]

@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2025-04-18 02:10:56 +0000"
@@ -422,6 +428,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 18:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },
@@ -2149,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:33:25 +0000"
@@ -2443,6 +2461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 03:15:43 +0000"
@@ -2608,6 +2632,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },
@@ -3181,6 +3211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -3568,6 +3604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 02:10:23 +0000"
@@ -3595,6 +3637,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-04-18 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },
@@ -3656,6 +3704,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-18 02:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },
@@ -4257,6 +4311,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "desert": "2025-04-18 22:30:14 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-04-18 02:08:41 +0000"
@@ -4514,6 +4574,12 @@
       "has_journal": "2025-04-18 02:08:41 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "desert": "2025-04-18 22:30:14 +0000"
+    },
+    "done": false
   },
   "ironchest:recipes/ironchest/chests/trapped_gold_chest": {
     "criteria": {
@@ -5938,6 +6004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 18:34:58 +0000"
@@ -6174,10 +6246,13 @@
       "minecraft:river": "2025-04-18 02:12:18 +0000",
       "minecraft:stony_shore": "2025-04-18 19:38:29 +0000",
       "minecraft:dripstone_caves": "2025-04-18 04:28:41 +0000",
+      "atmospheric:dunes": "2025-04-18 22:28:58 +0000",
       "minecraft:cold_ocean": "2025-04-18 03:05:29 +0000",
       "minecraft:forest": "2025-04-18 02:10:04 +0000",
       "minecraft:lush_caves": "2025-04-18 03:38:17 +0000",
+      "minecraft:desert": "2025-04-18 22:30:17 +0000",
       "minecraft:ocean": "2025-04-18 03:08:08 +0000",
+      "minecraft:warm_ocean": "2025-04-18 22:33:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 03:08:03 +0000",
       "atmospheric:laurel_forest": "2025-04-18 02:14:09 +0000",
       "minecraft:deep_dark": "2025-04-18 04:54:01 +0000",
@@ -6348,6 +6423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -6466,6 +6547,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-04-18 18:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },
@@ -7045,6 +7132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-04-18 22:33:58 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2025-04-18 02:29:41 +0000"
@@ -7181,6 +7274,12 @@
   "aether:recipes/combat/old_netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-18 22:33:22 +0000"
     },
     "done": true
   },

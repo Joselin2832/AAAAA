@@ -1695,6 +1695,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-18 22:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 17:46:24 +0000"
@@ -1875,6 +1881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-04-18 22:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -1962,6 +1974,12 @@
   "skilltree:recipes/skilltree/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2025-04-18 18:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-18 22:29:41 +0000"
     },
     "done": true
   },
@@ -3316,6 +3334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 22:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
@@ -3604,6 +3628,13 @@
       "has_terracotta": "2025-04-18 22:00:15 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_druid_circle": "2025-04-18 22:28:37 +0000",
+      "entered_desert_tomb": "2025-04-18 22:31:41 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
     "criteria": {
@@ -4141,6 +4172,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_druid_circle": "2025-04-18 22:28:37 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-04-18 19:36:52 +0000"
@@ -4603,6 +4640,7 @@
       "minecraft:dripstone_caves": "2025-04-18 06:46:51 +0000",
       "minecraft:forest": "2025-04-18 06:40:43 +0000",
       "minecraft:lush_caves": "2025-04-18 19:25:25 +0000",
+      "minecraft:desert": "2025-04-18 22:31:38 +0000",
       "minecraft:jungle": "2025-04-18 19:46:59 +0000",
       "minecraft:ocean": "2025-04-18 19:27:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 19:40:24 +0000",
