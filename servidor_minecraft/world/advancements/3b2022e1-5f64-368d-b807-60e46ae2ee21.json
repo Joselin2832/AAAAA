@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:08:49 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2025-04-18 20:48:14 +0000"
@@ -242,6 +254,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-18 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -380,6 +398,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 22:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -858,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -1104,6 +1134,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-04-18 23:09:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -1113,6 +1149,12 @@
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2025-04-18 19:35:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -1179,6 +1221,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:58:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -1466,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -1743,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:16 +0000"
@@ -1971,6 +2031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-18 23:08:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -1980,6 +2046,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:08:49 +0000"
     },
     "done": true
   },
@@ -2004,6 +2076,12 @@
   "skilltree:recipes/skilltree/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-04-18 18:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -2130,6 +2208,18 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-04-18 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -2434,6 +2524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-18 23:15:59 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -2443,6 +2539,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 07:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:08:49 +0000"
     },
     "done": true
   },
@@ -2616,6 +2718,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -2939,6 +3047,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2025-04-18 06:39:46 +0000"
@@ -2954,6 +3074,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-04-18 18:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -3009,6 +3135,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
       "has_plank": "2025-04-18 20:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
     },
     "done": true
   },
@@ -4039,6 +4171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
@@ -4144,6 +4282,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-18 21:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 23:09:27 +0000"
     },
     "done": true
   },
@@ -4878,6 +5022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 20:24:06 +0000"
@@ -4999,6 +5149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:08:49 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-18 06:39:46 +0000"
@@ -5106,6 +5262,7 @@
       "minecraft:ocean": "2025-04-18 19:27:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 19:40:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-18 19:51:13 +0000",
+      "atmospheric:scrubland": "2025-04-18 23:10:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 19:39:17 +0000",
       "minecraft:deep_dark": "2025-04-18 18:00:44 +0000",
       "minecraft:meadow": "2025-04-18 19:39:58 +0000"
@@ -5127,6 +5284,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -5323,6 +5486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-04-18 22:44:11 +0000"
@@ -5344,6 +5513,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-04-18 17:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -5906,6 +6081,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6005,6 +6186,12 @@
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -6358,6 +6545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-18 23:08:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6514,6 +6707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-18 19:35:18 +0000"
@@ -6643,6 +6842,12 @@
   "ars_elemental:recipes/ars_elemental/yellow_archwood": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },

@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-04-18 02:39:00 +0000"
@@ -998,6 +1004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:10:23 +0000"
@@ -1161,6 +1173,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 23:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-18 18:34:58 +0000"
@@ -1242,6 +1260,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-18 23:18:00 +0000"
     },
     "done": true
   },
@@ -1571,6 +1595,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-18 23:17:24 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-04-18 02:08:41 +0000"
@@ -1800,6 +1830,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-04-18 23:18:25 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2025-04-18 18:10:56 +0000"
@@ -1942,6 +1978,12 @@
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 02:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-18 23:18:25 +0000"
     },
     "done": true
   },
@@ -3001,6 +3043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:12:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -3031,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-18 23:15:34 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-04-18 03:00:46 +0000"
@@ -3052,6 +3106,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:12:29 +0000"
     },
     "done": true
   },
@@ -5200,6 +5260,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-04-18 23:14:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-04-18 04:35:04 +0000"
@@ -5896,6 +5962,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/vodka": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 23:12:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -6368,6 +6440,7 @@
       "minecraft:desert": "2025-04-18 22:30:17 +0000",
       "minecraft:ocean": "2025-04-18 03:08:08 +0000",
       "minecraft:warm_ocean": "2025-04-18 22:33:14 +0000",
+      "atmospheric:scrubland": "2025-04-18 23:13:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 03:08:03 +0000",
       "atmospheric:laurel_forest": "2025-04-18 02:14:09 +0000",
       "minecraft:deep_dark": "2025-04-18 04:54:01 +0000",

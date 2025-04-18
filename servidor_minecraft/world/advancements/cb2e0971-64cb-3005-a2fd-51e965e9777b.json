@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-04-18 23:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-18 17:55:28 +0000"
@@ -158,6 +170,12 @@
   "skilltree:recipes/skilltree/bone_quiver": {
     "criteria": {
       "has_bone": "2025-04-18 04:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -203,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:12:25 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2025-04-18 04:49:56 +0000"
@@ -224,6 +248,12 @@
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-18 23:17:47 +0000"
     },
     "done": true
   },
@@ -394,6 +424,12 @@
       "log_spam_fixer": "2025-04-18 04:02:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
@@ -666,6 +702,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -840,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-18 18:17:11 +0000"
@@ -852,6 +900,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -861,6 +915,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 04:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-04-18 23:12:18 +0000"
     },
     "done": true
   },
@@ -1038,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -1071,6 +1137,12 @@
   "morevillagers:recipes/decayed_workbench": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 04:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-04-18 23:11:45 +0000"
     },
     "done": true
   },
@@ -1110,6 +1182,12 @@
       "log_spam_fixer": "2025-04-18 04:02:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-18 23:13:03 +0000"
+    },
+    "done": true
   },
   "toms_storage:unlock_glowstone": {
     "criteria": {
@@ -1787,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:12:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2171,9 +2255,21 @@
     },
     "done": true
   },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-18 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -2219,6 +2315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:12:25 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
@@ -2246,6 +2348,18 @@
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-18 17:51:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -2312,6 +2426,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-04-18 04:31:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -2476,6 +2596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2025-04-18 17:51:42 +0000"
@@ -2563,6 +2689,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -2717,6 +2849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 23:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 04:34:44 +0000"
@@ -2726,6 +2864,12 @@
   "simplyswords:brimstone": {
     "criteria": {
       "requirement": "2025-04-18 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-04-18 23:12:18 +0000"
     },
     "done": true
   },
@@ -2929,12 +3073,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-18 22:54:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-18 18:20:50 +0000"
@@ -3117,6 +3255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-04-18 22:33:05 +0000"
@@ -3162,6 +3306,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-04-18 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -3310,6 +3460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_18": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -3355,6 +3511,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-04-18 18:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -3460,6 +3622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-18 04:16:34 +0000"
@@ -3517,6 +3685,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-18 04:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
     },
     "done": true
   },
@@ -3821,6 +3995,12 @@
     },
     "done": true
   },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -3854,6 +4034,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-04-18 23:11:38 +0000"
     },
     "done": true
   },
@@ -4091,6 +4277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -4260,6 +4452,12 @@
     },
     "done": true
   },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -4353,6 +4551,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-04-18 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
     },
     "done": true
   },
@@ -4603,6 +4807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-18 23:12:25 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-18 04:02:01 +0000"
@@ -4612,6 +4822,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-04-18 04:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-04-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -4708,6 +4924,7 @@
       "minecraft:jungle": "2025-04-18 19:48:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 19:40:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-18 19:52:17 +0000",
+      "atmospheric:scrubland": "2025-04-18 23:10:58 +0000",
       "atmospheric:laurel_forest": "2025-04-18 04:59:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 18:11:28 +0000",
       "minecraft:deep_dark": "2025-04-18 04:48:15 +0000",
@@ -5504,6 +5721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-18 04:13:46 +0000"
@@ -5588,6 +5811,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-18 04:23:54 +0000"
@@ -5625,6 +5860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-18 23:13:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-04-18 04:41:23 +0000"
@@ -5655,9 +5896,21 @@
     },
     "done": true
   },
+  "vinery:shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-18 22:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
     },
     "done": true
   },
@@ -6015,6 +6268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 23:14:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -6174,6 +6433,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-04-18 18:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-04-18 23:13:03 +0000"
     },
     "done": true
   },
@@ -6572,6 +6837,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 23:12:18 +0000"
     },
     "done": true
   },
