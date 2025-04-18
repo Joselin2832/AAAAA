@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmembrane_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -44,6 +50,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
     "criteria": {
       "has_plank": "2025-04-18 18:17:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2025-04-18 22:17:28 +0000"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-18 22:11:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-04-18 04:13:30 +0000"
@@ -392,6 +410,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-04-18 22:10:38 +0000"
     },
     "done": true
   },
@@ -1196,12 +1220,24 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mending_mixture": {
+    "criteria": {
+      "has_recipe_result": "2025-04-18 22:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-18 18:56:42 +0000",
       "minecraft:warped_forest": "2025-04-18 19:07:39 +0000"
     },
     "done": false
+  },
+  "upgradednetherite:recipes/essences/phantom_essence": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
@@ -2307,6 +2343,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmembrane_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2949,6 +2991,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmembrane_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-04-18 18:56:13 +0000"
@@ -3126,6 +3174,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
       "has_item": "2025-04-18 18:56:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 22:17:28 +0000"
     },
     "done": true
   },
@@ -3914,6 +3968,12 @@
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/tools/umbrella": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
     },
     "done": true
   },
@@ -5453,6 +5513,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 04:15:25 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmembrane_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2025-04-18 22:17:32 +0000"
     },
     "done": true
   },
