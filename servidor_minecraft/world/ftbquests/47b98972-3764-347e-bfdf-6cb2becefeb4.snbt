@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "47b989723764347ebfdf6cb2becefeb4"
+	name: "NachoSigma04"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1744942124183L
+		6F010E22CD886969: 1744942124183L
+		0000000000000001: 1744942124183L
+		744084D7C7EA8A6C: 1744942124183L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1744942124183L
+		6F010E22CD886969: 1744942124183L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

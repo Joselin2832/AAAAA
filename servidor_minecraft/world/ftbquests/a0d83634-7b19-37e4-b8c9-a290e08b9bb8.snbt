@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "a0d836347b1937e4b8c9a290e08b9bb8"
+	name: "Gress"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1744942121575L
+		6F010E22CD886969: 1744942121575L
+		0000000000000001: 1744942121575L
+		744084D7C7EA8A6C: 1744942121575L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1744942121576L
+		6F010E22CD886969: 1744942121576L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
