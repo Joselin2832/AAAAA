@@ -3351,3 +3351,69 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 22:17:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has reached the goal [Extraterrestrial Substance]
 [18Apr2025 22:17:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a
 [18Apr2025 22:18:45.315] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[18Apr2025 22:18:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> siempre
+[18Apr2025 22:19:24.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has reached the goal [Hunted]
+[18Apr2025 22:20:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tienen comida
+[18Apr2025 22:21:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [What Was That!?]
+[18Apr2025 22:21:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> si
+[18Apr2025 22:22:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Water Bucket] to Joselin23]
+[18Apr2025 22:22:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> aca esta
+[18Apr2025 22:22:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Mutant Creeper
+[18Apr2025 22:22:57.796] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 22:22:57.796] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 22:22:57.796] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 22:22:57.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 22:22:57.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 22:22:57.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 22:22:57.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 22:23:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tp
+[18Apr2025 22:23:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [The Jeweler]
+[18Apr2025 22:23:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[18Apr2025 22:24:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[18Apr2025 22:24:37.330] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Apr2025 22:24:37.331] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[18Apr2025 22:24:37.331] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[18Apr2025 22:24:37.331] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[18Apr2025 22:24:37.331] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[18Apr2025 22:24:39.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 22:24:39.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 22:24:39.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 22:24:39.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 22:24:39.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 22:24:39.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 22:24:39.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 22:24:41.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/48156, l='ServerLevel[world]', x=2174.25, y=72.18, z=4138.80] died: Lophez341 was slain by Joselin23
+[18Apr2025 22:24:44.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/48233, l='ServerLevel[world]', x=1063.05, y=63.00, z=3354.30] died, message: 'Nitwit was slain by Equestrian'
+[18Apr2025 22:24:46.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[18Apr2025 22:25:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ei
+[18Apr2025 22:25:19.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Orb of Origin] to Joselin23]
+[18Apr2025 22:25:41.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[18Apr2025 22:25:41.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[18Apr2025 22:25:48.543] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[18Apr2025 22:25:48.544] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[18Apr2025 22:25:48.545] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[18Apr2025 22:25:48.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[18Apr2025 22:26:12.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[18Apr2025 22:26:30.238] [Worker-Main43/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[18Apr2025 22:27:23.773] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[18Apr2025 22:27:38.943] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:27:38.943] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:27:38.944] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:27:38.944] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:27:43.361] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[18Apr2025 22:27:43.362] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[18Apr2025 22:28:29.470] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:28:29.471] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:28:29.471] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:28:29.471] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Apr2025 22:28:31.008] [Worker-Main44/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:28:58.495] [Worker-Main45/WARN] [ModernFix/]: The namespace morevillagers contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 22:28:58.642] [Worker-Main45/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
