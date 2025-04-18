@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 02:43:58 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-04-18 02:11:59 +0000"
@@ -338,6 +350,12 @@
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -765,6 +783,12 @@
   "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 20:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
     },
     "done": true
   },
@@ -1260,6 +1284,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -2227,6 +2257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_chestplate": {
     "criteria": {
       "has_items": "2025-04-18 17:53:10 +0000"
@@ -3098,6 +3134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-18 22:41:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_binding": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -3190,6 +3232,12 @@
   "endrem:main/old_eye": {
     "criteria": {
       "old_eye": "2025-04-18 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-04-18 22:51:49 +0000"
     },
     "done": true
   },
@@ -3313,6 +3361,12 @@
       "has_items": "2025-04-18 03:41:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -3456,6 +3510,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-18 19:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
     },
     "done": true
   },
@@ -3649,6 +3709,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-18 21:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -4100,6 +4166,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-04-18 02:57:29 +0000"
@@ -4497,6 +4575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-18 18:18:44 +0000"
@@ -4506,6 +4590,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 22:41:28 +0000"
     },
     "done": true
   },
@@ -4668,6 +4758,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -4963,6 +5059,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-04-18 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
     },
     "done": true
   },
@@ -6022,6 +6124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-18 02:10:35 +0000"
@@ -6233,11 +6341,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-18 03:09:20 +0000",
       "atmospheric:rainforest_basin": "2025-04-18 22:15:58 +0000",
       "atmospheric:rainforest": "2025-04-18 18:10:22 +0000",
+      "minecraft:eroded_badlands": "2025-04-18 22:37:15 +0000",
       "minecraft:birch_forest": "2025-04-18 02:20:25 +0000",
       "minecraft:badlands": "2025-04-18 22:27:33 +0000",
       "minecraft:savanna_plateau": "2025-04-18 22:27:25 +0000",
@@ -6294,6 +6409,12 @@
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_items": "2025-04-18 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -6362,6 +6483,12 @@
       "log_spam_fixer": "2025-04-18 02:08:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
@@ -6553,6 +6680,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-18 22:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -6819,6 +6952,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-18 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -7638,6 +7777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-04-18 02:41:09 +0000"
@@ -7701,6 +7846,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-18 02:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -7969,6 +8120,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-04-18 19:20:39 +0000"
@@ -7990,6 +8147,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 19:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-04-18 22:41:21 +0000"
     },
     "done": true
   },
@@ -8635,6 +8798,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-04-18 02:08:41 +0000"
@@ -8698,6 +8873,12 @@
   "enigmaticlegacy:book/tools/astral_breaker": {
     "criteria": {
       "has_the_recipe": "2025-04-18 18:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-04-18 22:41:24 +0000"
     },
     "done": true
   },
@@ -8776,6 +8957,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-18 22:51:49 +0000"
     },
     "done": true
   },
