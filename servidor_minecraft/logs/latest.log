@@ -3062,3 +3062,157 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 21:44:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
 [18Apr2025 21:44:33.966] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
 [18Apr2025 21:46:26.518] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
+[18Apr2025 21:50:13.626] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[18Apr2025 21:50:13.627] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[18Apr2025 21:50:13.685] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[18Apr2025 21:50:13.744] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[18Apr2025 21:50:13.801] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[18Apr2025 21:50:13.859] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[18Apr2025 21:50:13.917] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[18Apr2025 21:50:13.973] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[18Apr2025 21:50:13.975] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[18Apr2025 21:50:14.033] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[18Apr2025 21:50:14.091] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[18Apr2025 21:50:14.149] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[18Apr2025 21:50:14.445] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[18Apr2025 21:50:14.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[18Apr2025 21:50:14.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[18Apr2025 21:50:14.568] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e38ad06
+[18Apr2025 21:50:14.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.185.233.136:51325] logged in with entity id 27869 at (1090.2789436444625, 63.0, 3365.3513253565247)
+[18Apr2025 21:50:14.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[18Apr2025 21:50:14.606] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[18Apr2025 21:50:14.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[18Apr2025 21:50:14.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[18Apr2025 21:50:14.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[18Apr2025 21:50:14.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[18Apr2025 21:50:14.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[18Apr2025 21:50:14.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[18Apr2025 21:50:14.685] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[18Apr2025 21:50:14.692] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[18Apr2025 21:50:14.693] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Apr2025 21:50:14.693] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23
+[18Apr2025 21:50:15.428] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 21:50:15.428] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 21:50:15.428] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 21:50:15.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 21:50:15.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 21:50:15.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 21:50:15.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 21:50:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Guns and Roses]
+[18Apr2025 21:50:48.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Skeleton
+[18Apr2025 21:50:50.881] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 21:50:50.882] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 21:50:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[18Apr2025 21:52:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 5 [Block of Emerald] to Joselin23]
+[18Apr2025 21:52:31.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Diamond Axe] to Joselin23]
+[18Apr2025 21:54:26.380] [Worker-Main43/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 21:54:30.183] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Apr2025 21:54:30.185] [Worker-Main43/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Apr2025 21:54:32.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9060ms or 181 ticks behind
+[18Apr2025 21:54:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Smithing Table] to Joselin23]
+[18Apr2025 21:54:32.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Smithing Table] to Joselin23]
+[18Apr2025 21:54:32.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved too quickly! -8.393186902142588,-5.464159374955443,-0.20951898257817447
+[18Apr2025 21:54:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Phantom
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 21:54:45.086] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 21:54:45.087] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 21:55:53.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has completed the challenge [Ancient Craftmanship]
+[18Apr2025 21:57:58.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 128 [TNT] to Joselin23]
+[18Apr2025 21:58:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 21:59:24.642] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-77}
+[18Apr2025 21:59:24.643] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-12, z=-78}
+[18Apr2025 21:59:24.643] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-79}
+[18Apr2025 21:59:24.643] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=107, y=-12, z=-78}
+[18Apr2025 22:02:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 22:06:12.089] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[18Apr2025 22:06:12.116] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[18Apr2025 22:06:12.116] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[18Apr2025 22:06:12.116] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[18Apr2025 22:06:12.116] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[18Apr2025 22:06:12.379] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[18Apr2025 22:06:12.381] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[18Apr2025 22:06:12.383] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[18Apr2025 22:06:12.385] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[18Apr2025 22:06:12.386] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[18Apr2025 22:06:12.388] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[18Apr2025 22:06:12.388] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[18Apr2025 22:06:14.644] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[18Apr2025 22:06:14.652] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[18Apr2025 22:06:14.668] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[18Apr2025 22:06:14.773] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52fcf859
+[18Apr2025 22:06:14.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lophez341[/127.214.85.198:38399] logged in with entity id 34131 at (1107.4830074311376, 64.0, 3363.3935135779475)
+[18Apr2025 22:06:14.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lophez341
+[18Apr2025 22:06:14.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lophez341
+[18Apr2025 22:06:14.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lophez341
+[18Apr2025 22:06:14.819] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lophez341
+[18Apr2025 22:06:14.820] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lophez341
+[18Apr2025 22:06:14.821] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lophez341
+[18Apr2025 22:06:14.822] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lophez341
+[18Apr2025 22:06:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 joined the game
+[18Apr2025 22:06:14.896] [Server thread/INFO] [Jade/]: Syncing config to Lophez341 (cb2e0971-64cb-3005-a2fd-51e965e9777b)
+[18Apr2025 22:06:14.909] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lophez341...
+[18Apr2025 22:06:14.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Apr2025 22:06:14.911] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lophez341
+[18Apr2025 22:06:15.829] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 22:06:15.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 22:06:16.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 lost connection: Disconnected
+[18Apr2025 22:06:16.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 left the game
+[18Apr2025 22:06:51.343] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[18Apr2025 22:06:51.360] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[18Apr2025 22:06:51.360] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[18Apr2025 22:06:51.360] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[18Apr2025 22:06:51.360] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[18Apr2025 22:06:51.632] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[18Apr2025 22:06:51.632] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[18Apr2025 22:06:51.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[18Apr2025 22:06:51.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[18Apr2025 22:06:51.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[18Apr2025 22:06:51.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[18Apr2025 22:06:51.701] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[18Apr2025 22:06:52.357] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[18Apr2025 22:06:52.358] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[18Apr2025 22:06:52.578] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[18Apr2025 22:06:52.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47822624
+[18Apr2025 22:06:52.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lophez341[/127.214.85.198:48495] logged in with entity id 34950 at (1107.4830074311376, 64.0, 3363.3935135779475)
+[18Apr2025 22:06:52.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lophez341
+[18Apr2025 22:06:52.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lophez341
+[18Apr2025 22:06:52.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lophez341
+[18Apr2025 22:06:52.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lophez341
+[18Apr2025 22:06:52.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lophez341
+[18Apr2025 22:06:52.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lophez341
+[18Apr2025 22:06:52.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lophez341
+[18Apr2025 22:06:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 joined the game
+[18Apr2025 22:06:52.783] [Server thread/INFO] [Jade/]: Syncing config to Lophez341 (cb2e0971-64cb-3005-a2fd-51e965e9777b)
+[18Apr2025 22:06:52.793] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lophez341...
+[18Apr2025 22:06:52.794] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[18Apr2025 22:06:52.794] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lophez341
+[18Apr2025 22:06:53.672] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 22:06:53.672] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 22:06:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 22:06:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 22:06:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 22:06:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 22:06:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 22:06:53.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 lost connection: Disconnected
+[18Apr2025 22:06:53.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 left the game
+[18Apr2025 22:07:33.437] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[18Apr2025 22:07:33.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[18Apr2025 22:07:33.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[18Apr2025 22:07:33.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[18Apr2025 22:07:33.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[18Apr2025 22:07:33.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[18Apr2025 22:07:33.722] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@658f21fb[id=<null>,name=Lophez341,properties={},legacy=false] (/127.214.85.198:36541) lost connection: Disconnected
