@@ -2994,3 +2994,30 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 21:15:36.453] [Worker-Main1/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [18Apr2025 21:15:37.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Penteconter]
 [18Apr2025 21:16:30.899] [Worker-Main7/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18Apr2025 21:17:42.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[18Apr2025 21:17:47.310] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[18Apr2025 21:17:47.311] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/AnimationState
+[18Apr2025 21:17:47.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/easing/EasingType
+[18Apr2025 21:17:58.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[18Apr2025 21:20:20.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[18Apr2025 21:20:20.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[18Apr2025 21:20:20.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[18Apr2025 21:20:27.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[18Apr2025 21:20:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[18Apr2025 21:20:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 122.500000, 90.500000, 425.500000]
+[18Apr2025 21:21:13.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[18Apr2025 21:21:54.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[18Apr2025 21:22:01.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[18Apr2025 21:22:01.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[18Apr2025 21:22:01.465] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[18Apr2025 21:22:04.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [When in Rome]
+[18Apr2025 21:22:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 21:22:23.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[18Apr2025 21:22:23.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Warden]
+[18Apr2025 21:23:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 21:23:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 3 [Brightsteel Block] to Joselin23]
+[18Apr2025 21:24:03.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 8 [Netherite Ingot] to Joselin23]
+[18Apr2025 21:25:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[18Apr2025 21:26:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[18Apr2025 21:26:23.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[18Apr2025 21:26:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game

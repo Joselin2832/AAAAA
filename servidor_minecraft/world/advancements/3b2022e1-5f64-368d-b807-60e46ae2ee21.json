@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-18 21:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-18 20:38:31 +0000"
@@ -967,6 +973,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-18 21:14:04 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-04-18 06:39:45 +0000"
@@ -1202,6 +1214,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 21:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-18 18:57:06 +0000",
@@ -1224,6 +1242,12 @@
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-18 21:13:56 +0000"
     },
     "done": true
   },
@@ -2302,6 +2326,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-18 21:13:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-18 21:22:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-04-18 19:44:23 +0000"
@@ -2616,6 +2652,12 @@
     "criteria": {
       "requirement": "2025-04-18 17:42:44 +0000",
       "log_spam_fixer": "2025-04-18 06:39:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-04-18 21:13:56 +0000"
     },
     "done": true
   },
@@ -3015,6 +3057,12 @@
       "has_item": "2025-04-18 20:13:08 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-18 21:22:04 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
@@ -3484,6 +3532,7 @@
       "minecraft:skeleton": "2025-04-18 18:03:54 +0000",
       "minecraft:magma_cube": "2025-04-18 19:44:10 +0000",
       "minecraft:spider": "2025-04-18 19:55:23 +0000",
+      "minecraft:piglin_brute": "2025-04-18 21:13:55 +0000",
       "minecraft:creeper": "2025-04-18 19:54:52 +0000",
       "minecraft:slime": "2025-04-18 07:09:25 +0000",
       "minecraft:zombified_piglin": "2025-04-18 19:16:41 +0000",
@@ -4502,6 +4551,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-04-18 06:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-18 21:14:04 +0000"
     },
     "done": true
   },
