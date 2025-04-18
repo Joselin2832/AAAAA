@@ -3050,3 +3050,15 @@ java.lang.IllegalArgumentException: null
 [18Apr2025 21:31:17.355] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
 [18Apr2025 21:31:17.357] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [18Apr2025 21:31:17.358] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[18Apr2025 21:39:20.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Phantom
+[18Apr2025 21:41:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Iron Golem
+[18Apr2025 21:41:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Iron Golem
+[18Apr2025 21:44:31.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Phantom
+[18Apr2025 21:44:33.964] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26346, l='ServerLevel[world]', x=1047.63, y=114.40, z=3526.35, removed=KILLED]
+[18Apr2025 21:44:33.964] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26347, l='ServerLevel[world]', x=1047.06, y=122.19, z=3521.42, removed=KILLED]
+[18Apr2025 21:44:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26348, l='ServerLevel[world]', x=1046.17, y=121.13, z=3522.34, removed=KILLED]
+[18Apr2025 21:44:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26349, l='ServerLevel[world]', x=1048.41, y=121.49, z=3520.45, removed=KILLED]
+[18Apr2025 21:44:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26350, l='ServerLevel[world]', x=1047.70, y=121.26, z=3521.11, removed=KILLED]
+[18Apr2025 21:44:33.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26351, l='ServerLevel[world]', x=1046.78, y=120.24, z=3521.94, removed=KILLED]
+[18Apr2025 21:44:33.966] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ExtendedWitherSkull['entity.irons_spellbooks.wither_skull'/26352, l='ServerLevel[world]', x=1045.89, y=120.24, z=3522.73, removed=KILLED]
+[18Apr2025 21:46:26.518] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
