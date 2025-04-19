@@ -3085,3 +3085,12 @@ java.io.EOFException: null
 [19Apr2025 18:53:32.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24499, l='ServerLevel[world]', x=1167.50, y=63.50, z=3327.93] died, message: 'Unemployed was slain by Equestrian'
 [19Apr2025 18:53:35.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24498, l='ServerLevel[world]', x=1166.01, y=63.00, z=3331.07] died, message: 'Weaponsmith was slain by Equestrian'
 [19Apr2025 18:53:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Iron Golem
+[19Apr2025 18:55:33.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/24353, l='ServerLevel[world]', x=1106.50, y=64.15, z=3359.52] died: Lophez341 was slain by Gress
+[19Apr2025 18:55:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tienes 1 de lapiz
+[19Apr2025 18:56:26.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has completed the challenge [Celestial Duo]
+[19Apr2025 18:59:08.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> jose
+[19Apr2025 18:59:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> en esta version
+[19Apr2025 18:59:14.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ya habia pa poner hojas con agua?
+[19Apr2025 19:00:56.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved wrongly!
+[19Apr2025 19:01:27.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/24352, l='ServerLevel[world]', x=1060.26, y=67.03, z=3351.15] died: Lophez341 was slain by Lophez341
+[19Apr2025 19:04:08.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
