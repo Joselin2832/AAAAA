@@ -842,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-19 18:45:33 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-04-18 04:02:01 +0000"
@@ -1469,6 +1475,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 18:26:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-04-19 18:47:21 +0000"
     },
     "done": true
   },
@@ -2474,6 +2486,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-04-19 18:40:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2693,6 +2711,12 @@
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-04-18 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-04-19 18:47:21 +0000"
     },
     "done": true
   },
@@ -3071,6 +3095,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-19 18:40:35 +0000"
     },
     "done": true
   },
@@ -4036,26 +4066,6 @@
       "enchanted_item": "2025-04-19 01:55:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2025-04-19 18:27:05 +0000",
-      "!bit14": "2025-04-19 18:27:05 +0000",
-      "!bit11": "2025-04-19 18:27:05 +0000",
-      "!bit12": "2025-04-19 18:27:05 +0000",
-      "!bit10": "2025-04-19 18:27:05 +0000",
-      "!bit9": "2025-04-19 18:27:05 +0000",
-      "!bit8": "2025-04-19 18:27:05 +0000",
-      "!bit7": "2025-04-19 18:27:05 +0000",
-      "!bit6": "2025-04-19 18:27:05 +0000",
-      "!bit5": "2025-04-19 18:27:05 +0000",
-      "!bit4": "2025-04-19 18:27:05 +0000",
-      "!bit3": "2025-04-19 18:27:05 +0000",
-      "!bit2": "2025-04-19 18:27:05 +0000",
-      "!bit1": "2025-04-19 18:27:05 +0000",
-      "!bit0": "2025-04-19 18:27:05 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -5261,6 +5271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-19 18:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 04:16:31 +0000"
@@ -5405,6 +5421,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 18:44:32 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-04-18 04:02:00 +0000"
@@ -5470,7 +5492,8 @@
       "minecraft:cave_spider": "2025-04-18 04:33:04 +0000",
       "minecraft:silverfish": "2025-04-18 17:56:17 +0000",
       "minecraft:vex": "2025-04-19 02:17:25 +0000",
-      "minecraft:zombie": "2025-04-18 18:11:49 +0000"
+      "minecraft:zombie": "2025-04-18 18:11:49 +0000",
+      "minecraft:zombie_villager": "2025-04-19 18:49:04 +0000"
     },
     "done": false
   },
@@ -6529,6 +6552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 18:44:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -6962,6 +6991,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 18:40:35 +0000"
     },
     "done": true
   },
@@ -7673,6 +7708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-19 18:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-19 00:09:04 +0000"
@@ -7918,6 +7959,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 22:45:06 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/eyebomination": {
+    "criteria": {
+      "has_item": "2025-04-19 18:40:35 +0000"
     },
     "done": true
   },
@@ -8218,9 +8265,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-04-18 04:29:34 +0000"
+      "has_parent_recipe": "2025-04-18 04:29:34 +0000",
+      "has_items": "2025-04-19 18:40:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
     "criteria": {
@@ -8309,6 +8357,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-18 18:22:01 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:divine_ruby_advancement": {
+    "criteria": {
+      "divine_ruby_advancement": "2025-04-19 18:45:09 +0000"
     },
     "done": true
   },
@@ -8481,6 +8535,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-04-19 18:40:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -8598,6 +8658,12 @@
   "ars_nouveau:recipes/ars_nouveau/green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-04-19 18:40:35 +0000"
     },
     "done": true
   },

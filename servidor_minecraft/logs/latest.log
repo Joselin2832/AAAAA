@@ -3068,3 +3068,20 @@ java.io.EOFException: null
 [19Apr2025 18:38:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
 [19Apr2025 18:38:58.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya amigos
 [19Apr2025 18:39:21.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[19Apr2025 18:45:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has completed the challenge [Red as a ruby]
+[19Apr2025 18:45:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Surge Protector]
+[19Apr2025 18:45:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] roja tiene la cola nacho
+[19Apr2025 18:45:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mas que ese ruby
+[19Apr2025 18:47:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[19Apr2025 18:48:02.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/23791, l='ServerLevel[world]', x=1053.54, y=73.00, z=3318.44] died, message: 'Fletcher was slain by Equestrian'
+[19Apr2025 18:48:06.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23787, l='ServerLevel[world]', x=1096.44, y=63.00, z=3364.70] died, message: 'Nitwit was slain by Zombie'
+[19Apr2025 18:48:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Lophez341
+[19Apr2025 18:48:28.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24388, l='ServerLevel[world]', x=1096.03, y=63.00, z=3343.66] died, message: 'Unemployed was slain by Lophez341'
+[19Apr2025 18:49:04.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/24365, l='ServerLevel[world]', x=1067.86, y=64.02, z=3363.30] died, message: 'Mason was slain by Lophez341'
+[19Apr2025 18:49:36.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[19Apr2025 18:49:36.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24399, l='ServerLevel[world]', x=1059.84, y=66.61, z=3352.77] died, message: 'Unemployed was slain by Lophez341'
+[19Apr2025 18:49:38.122] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[19Apr2025 18:49:38.123] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[19Apr2025 18:53:32.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24499, l='ServerLevel[world]', x=1167.50, y=63.50, z=3327.93] died, message: 'Unemployed was slain by Equestrian'
+[19Apr2025 18:53:35.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24498, l='ServerLevel[world]', x=1166.01, y=63.00, z=3331.07] died, message: 'Weaponsmith was slain by Equestrian'
+[19Apr2025 18:53:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Iron Golem
