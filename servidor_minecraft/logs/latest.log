@@ -3116,3 +3116,77 @@ java.io.EOFException: null
 [19Apr2025 19:11:45.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> creo
 [19Apr2025 19:12:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> nomames
 [19Apr2025 19:13:40.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[19Apr2025 19:15:00.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 19:15:00.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: to lophez342 gress<--[HERE]
+[19Apr2025 19:15:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Lophez341 to Gress
+[19Apr2025 19:15:05.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Gress
+[19Apr2025 19:15:05.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 died
+[19Apr2025 19:15:07.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> verga
+[19Apr2025 19:15:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] JAJAJA
+[19Apr2025 19:15:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> JAJAJAJA
+[19Apr2025 19:15:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> qee
+[19Apr2025 19:15:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> avisa
+[19Apr2025 19:15:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> me tpearon
+[19Apr2025 19:15:16.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[19Apr2025 19:15:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a
+[19Apr2025 19:15:19.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ola
+[19Apr2025 19:15:21.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> esq
+[19Apr2025 19:15:22.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> t traje
+[19Apr2025 19:15:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pero
+[19Apr2025 19:15:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Lophez341 to Gress
+[19Apr2025 19:15:24.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Cave Spider
+[19Apr2025 19:15:25.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ya tenia las cosas
+[19Apr2025 19:15:27.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> JAJAJAJ
+[19Apr2025 19:15:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] XD
+[19Apr2025 19:15:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pense q no
+[19Apr2025 19:15:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> chingao
+[19Apr2025 19:15:34.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Lophez341 to Gress
+[19Apr2025 19:15:35.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Cave Spider
+[19Apr2025 19:15:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ora
+[19Apr2025 19:15:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> aa
+[19Apr2025 19:15:39.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> perate jose
+[19Apr2025 19:15:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mata a la mughre araña
+[19Apr2025 19:15:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ahora si
+[19Apr2025 19:16:05.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Lophez341 to Gress
+[19Apr2025 19:16:19.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> perdoname lopez
+[19Apr2025 19:16:55.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[19Apr2025 19:16:58.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Cave Spider
+[19Apr2025 19:16:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> qe
+[19Apr2025 19:16:58.548] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 19:16:58.549] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[19Apr2025 19:16:58.549] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Apr2025 19:16:58.549] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Apr2025 19:16:58.549] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 19:17:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ira
+[19Apr2025 19:17:03.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> q me vergeo
+[19Apr2025 19:17:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> >C
+[19Apr2025 19:17:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ni agarrar el weipon
+[19Apr2025 19:17:27.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> pude
+[19Apr2025 19:17:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> we
+[19Apr2025 19:17:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> yo no se q me culeo
+[19Apr2025 19:17:49.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> m bajo mis 11 barras d corazones
+[19Apr2025 19:17:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> un sombi dice
+[19Apr2025 19:18:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> oye
+[19Apr2025 19:18:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> puedes estarte aqui con el ambulante?
+[19Apr2025 19:19:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was shot by Skeleton
+[19Apr2025 19:19:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ai
+[19Apr2025 19:19:13.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ai mamada y media
+[19Apr2025 19:19:25.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> chin
+[19Apr2025 19:20:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> se te olvido un amuleto
+[19Apr2025 19:20:20.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> a
+[19Apr2025 19:20:24.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[19Apr2025 19:20:27.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Stray
+[19Apr2025 19:20:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ya vi q paso
+[19Apr2025 19:21:01.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jaja
+[19Apr2025 19:21:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Peaceful
+[19Apr2025 19:21:11.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[19Apr2025 19:21:53.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/43996, l='ServerLevel[world]', x=2785.89, y=24.00, z=4106.20] died: Gress was slain by Gress
+[19Apr2025 19:21:55.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[19Apr2025 19:21:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> xd
+[19Apr2025 19:21:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> que pedo
+[19Apr2025 19:22:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> no q no pegan espinas
+[19Apr2025 19:23:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Gress
+[19Apr2025 19:23:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> verga
+[19Apr2025 19:24:08.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[19Apr2025 19:24:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> nomames
+[19Apr2025 19:24:14.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> bueno
