@@ -3910,6 +3910,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-19 07:25:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-18 19:44:23 +0000"
@@ -7190,9 +7196,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-04-19 07:21:20 +0000",
       "log_spam_fixer": "2025-04-18 06:39:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
