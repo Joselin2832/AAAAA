@@ -606,6 +606,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2025-04-19 05:52:15 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -4866,6 +4872,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-04-19 05:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-18 02:11:07 +0000"
@@ -8444,6 +8456,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-04-19 05:53:34 +0000"
+    },
+    "done": true
+  },
   "vinery:campfire": {
     "criteria": {
       "has_stick": "2025-04-18 02:10:35 +0000",
@@ -8738,6 +8756,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-04-19 05:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-18 02:57:32 +0000"
@@ -8949,6 +8973,12 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-18 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-04-19 05:53:34 +0000"
     },
     "done": true
   },
