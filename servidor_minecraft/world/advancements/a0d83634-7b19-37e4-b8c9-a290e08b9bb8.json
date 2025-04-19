@@ -962,6 +962,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-04-19 01:35:25 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-04-18 02:08:41 +0000"
@@ -6292,6 +6298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-19 01:27:55 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/iron_blacksmith_gavel": {
     "criteria": {
       "has_ingots/iron": "2025-04-18 02:16:15 +0000"
@@ -6988,6 +7000,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-04-18 18:48:32 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:lawbringer": {
+    "criteria": {
+      "lawbringer": "2025-04-19 01:30:34 +0000"
     },
     "done": true
   },

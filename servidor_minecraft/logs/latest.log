@@ -1732,3 +1732,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 01:24:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> ira sin manos
 [19Apr2025 01:25:09.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Gress to Lophez341
 [19Apr2025 01:25:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [When in Rome]
+[19Apr2025 01:30:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Lawbringer]
+[19Apr2025 01:35:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [The Lapidary]

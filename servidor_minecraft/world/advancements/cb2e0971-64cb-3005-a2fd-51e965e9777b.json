@@ -3593,7 +3593,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-04-19 01:25:55 +0000"
+      "!bit13": "2025-04-19 01:30:10 +0000",
+      "!bit14": "2025-04-19 01:30:10 +0000",
+      "!bit11": "2025-04-19 01:30:10 +0000",
+      "!bit12": "2025-04-19 01:30:10 +0000",
+      "!bit10": "2025-04-19 01:30:10 +0000",
+      "!bit9": "2025-04-19 01:30:10 +0000",
+      "!bit8": "2025-04-19 01:30:10 +0000",
+      "!bit7": "2025-04-19 01:30:10 +0000",
+      "!bit6": "2025-04-19 01:30:10 +0000",
+      "!bit5": "2025-04-19 01:30:10 +0000",
+      "!bit4": "2025-04-19 01:30:10 +0000",
+      "!bit3": "2025-04-19 01:30:10 +0000",
+      "!bit2": "2025-04-19 01:30:10 +0000",
+      "!bit1": "2025-04-19 01:30:10 +0000",
+      "!bit0": "2025-04-19 01:30:10 +0000"
     },
     "done": false
   },
@@ -5813,6 +5827,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-19 01:32:23 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
@@ -6710,6 +6730,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2025-04-18 18:16:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-19 01:32:35 +0000"
     },
     "done": true
   },
