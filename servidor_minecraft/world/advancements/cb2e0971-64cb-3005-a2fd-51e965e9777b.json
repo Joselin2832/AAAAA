@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 04:16:34 +0000"
@@ -460,6 +466,12 @@
       "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
@@ -1352,6 +1364,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-04-19 00:46:00 +0000"
@@ -1421,6 +1439,12 @@
   "minecraft:recipes/decorations/magenta_glazed_terracotta": {
     "criteria": {
       "has_magenta_terracotta": "2025-04-18 23:11:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
     },
     "done": true
   },
@@ -2695,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_spruce_planks": "2025-04-18 23:14:06 +0000"
@@ -3506,6 +3536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -3593,21 +3629,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-04-19 01:30:10 +0000",
-      "!bit14": "2025-04-19 01:30:10 +0000",
-      "!bit11": "2025-04-19 01:30:10 +0000",
-      "!bit12": "2025-04-19 01:30:10 +0000",
-      "!bit10": "2025-04-19 01:30:10 +0000",
-      "!bit9": "2025-04-19 01:30:10 +0000",
-      "!bit8": "2025-04-19 01:30:10 +0000",
-      "!bit7": "2025-04-19 01:30:10 +0000",
-      "!bit6": "2025-04-19 01:30:10 +0000",
-      "!bit5": "2025-04-19 01:30:10 +0000",
-      "!bit4": "2025-04-19 01:30:10 +0000",
-      "!bit3": "2025-04-19 01:30:10 +0000",
-      "!bit2": "2025-04-19 01:30:10 +0000",
-      "!bit1": "2025-04-19 01:30:10 +0000",
-      "!bit0": "2025-04-19 01:30:10 +0000"
+      "target": "2025-04-19 01:42:10 +0000"
     },
     "done": false
   },
@@ -5104,6 +5126,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-19 00:43:48 +0000"
@@ -5698,6 +5726,7 @@
       "minecraft:birch_forest": "2025-04-18 19:38:50 +0000",
       "minecraft:bamboo_jungle": "2025-04-18 19:48:20 +0000",
       "minecraft:badlands": "2025-04-18 22:27:56 +0000",
+      "minecraft:savanna_plateau": "2025-04-19 01:42:03 +0000",
       "minecraft:beach": "2025-04-18 18:13:26 +0000",
       "minecraft:dark_forest": "2025-04-18 19:40:59 +0000",
       "atmospheric:flourishing_dunes": "2025-04-18 22:28:14 +0000",
@@ -5826,6 +5855,12 @@
       "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
@@ -6261,6 +6296,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/skilltree/quiver": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-04-18 04:29:34 +0000",
@@ -6535,6 +6576,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -6646,6 +6693,12 @@
   "atmospheric:recipes/food/golden_dragon_fruit": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 04:34:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-04-19 01:42:17 +0000"
     },
     "done": true
   },

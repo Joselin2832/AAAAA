@@ -1734,3 +1734,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 01:25:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [When in Rome]
 [19Apr2025 01:30:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Lawbringer]
 [19Apr2025 01:35:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [The Lapidary]
+[19Apr2025 01:37:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
+[19Apr2025 01:37:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> qe
+[19Apr2025 01:39:21.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> jose
+[19Apr2025 01:39:27.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> usaste todo la amatista?
+[19Apr2025 01:40:02.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[19Apr2025 01:40:40.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! -12.579258696796842,1.0459727763594628,-12.083991686847185
+[19Apr2025 01:40:40.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19Apr2025 01:40:49.411] [Worker-Main5/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 1537 114 2557
+[19Apr2025 01:40:50.162] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:40:50.162] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:40:50.162] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:40:50.162] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:40:58.782] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WealdWalker$Animations
+[19Apr2025 01:41:12.276] [Worker-Main2/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[19Apr2025 01:42:05.617] [Worker-Main7/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[19Apr2025 01:42:05.618] [Worker-Main7/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[19Apr2025 01:42:05.630] [Worker-Main7/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[19Apr2025 01:42:14.954] [Worker-Main4/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 2140 171 2164
+[19Apr2025 01:42:32.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5751ms or 115 ticks behind
+[19Apr2025 01:42:45.748] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[19Apr2025 01:44:26.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! -287.6935033913253,-46.07514231409378,279.6205600570038
+[19Apr2025 01:45:57.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] lopez deja de hakear
+[19Apr2025 01:46:04.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> q anda haciendo
+[19Apr2025 01:46:13.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] la consola mandan 10 wargins de que te mueves bien rapido porque vuelas
+[19Apr2025 01:46:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> no ago nada
+[19Apr2025 01:46:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> nomas vuelo
+[19Apr2025 01:46:50.031] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
