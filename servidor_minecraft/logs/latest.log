@@ -2224,3 +2224,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 04:17:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
 [19Apr2025 04:17:34.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
 [19Apr2025 04:19:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [The Basics]
+[19Apr2025 04:21:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 04:23:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 04:23:24.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Apr2025 04:23:25.471] [Worker-Main214/WARN] [ModernFix/]: The namespace twilightforest contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[19Apr2025 04:23:29.175] [Worker-Main278/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[19Apr2025 04:23:34.663] [Worker-Main215/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[19Apr2025 04:23:35.695] [Worker-Main214/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant
+[19Apr2025 04:23:35.698] [Worker-Main214/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant$WoodShapes
+[19Apr2025 04:24:13.224] [Worker-Main214/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/GraveyardFeature$GraveType
+[19Apr2025 04:26:23.925] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[19Apr2025 04:26:23.930] [Worker-Main278/FATAL] [twilightforest/]: Did not find boss room from exit 3 - EPIC FAIL
+[19Apr2025 04:26:51.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [The Silence of the Forest]
+[19Apr2025 04:26:58.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29c82710
+[19Apr2025 04:27:38.490] [Worker-Main216/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[19Apr2025 04:29:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Skeleton
+[19Apr2025 04:29:52.943] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 04:29:52.943] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 18 is dual wielding: false
+[19Apr2025 04:29:52.943] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 04:29:52.943] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 04:29:52.943] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 04:30:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 04:30:05.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 11620.500000, 79.500000, 15389.500000]
+[19Apr2025 04:30:49.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 1530.500000, -4.500000, 3072.500000]
