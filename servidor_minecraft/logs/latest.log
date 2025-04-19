@@ -1956,3 +1956,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 01:55:28.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Enchanter]
 [19Apr2025 01:55:39.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> extraño mis 9 bloques
 [19Apr2025 01:55:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Eterna, Quanta, Arcana]
+[19Apr2025 01:58:03.289] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[19Apr2025 01:58:03.289] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[19Apr2025 01:58:39.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=640, y=110, z=1213} BlockPos{x=455, y=127, z=863}
+[19Apr2025 01:59:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Dios is cuming
+[19Apr2025 01:59:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> q
+[19Apr2025 01:59:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> so
+[19Apr2025 01:59:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 01:59:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Say Jajaja que pendejo<--[HERE]
+[19Apr2025 01:59:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Jajaja que chistoso
+[19Apr2025 01:59:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> si
+[19Apr2025 01:59:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] summon mutant creeper gress
+[19Apr2025 01:59:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> m acabo d matar 1 we
+[19Apr2025 01:59:58.472] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.472] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.472] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.472] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.485] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.485] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:58.485] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 01:59:59.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> no mas
+[19Apr2025 02:00:02.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pues pa que hagas rachawe
+[19Apr2025 02:00:07.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> nogracias
+[19Apr2025 02:00:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> mamarre mamarre
+[19Apr2025 02:00:46.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> como lo muebe esa mushashota
+[19Apr2025 02:01:05.796] [Worker-Main5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[19Apr2025 02:01:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Donald, donald trump viendo como lo mueve esa muchachota
+[19Apr2025 02:01:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Skyward Cities]
+[19Apr2025 02:02:19.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> yoviendo
+[19Apr2025 02:02:21.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> lloviendo
+[19Apr2025 02:02:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> yo viendo
+[19Apr2025 02:03:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19Apr2025 02:03:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: execute @a]~~~~ invoce lightning_bolt<--[HERE]
+[19Apr2025 02:03:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[19Apr2025 02:03:53.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: execute @e[type=zombie]~~~~ invoce lightning_bolt<--[HERE]
+[19Apr2025 02:04:54.602] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[19Apr2025 02:05:44.651] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:05:44.651] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:05:44.652] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:05:44.652] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 02:06:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a
+[19Apr2025 02:07:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown entity: minecraft:mutantcreeper

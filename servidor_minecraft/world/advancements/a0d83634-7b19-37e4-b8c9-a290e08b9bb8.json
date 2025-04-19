@@ -2344,6 +2344,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-04-19 01:58:16 +0000",
       "desert": "2025-04-18 22:30:14 +0000"
     },
     "done": false
@@ -5818,6 +5819,12 @@
     },
     "done": true
   },
+  "repurposed_structures:city_overworld": {
+    "criteria": {
+      "city_overworld": "2025-04-19 02:01:54 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-18 02:10:35 +0000"
@@ -8041,6 +8048,7 @@
       "minecraft:badlands": "2025-04-18 22:27:33 +0000",
       "minecraft:savanna_plateau": "2025-04-18 22:27:25 +0000",
       "minecraft:beach": "2025-04-18 02:25:57 +0000",
+      "minecraft:dark_forest": "2025-04-19 02:02:13 +0000",
       "minecraft:sparse_jungle": "2025-04-18 18:10:00 +0000",
       "minecraft:river": "2025-04-18 02:12:18 +0000",
       "minecraft:stony_shore": "2025-04-18 19:38:29 +0000",
@@ -8051,6 +8059,7 @@
       "minecraft:lush_caves": "2025-04-18 03:38:17 +0000",
       "minecraft:desert": "2025-04-18 22:30:17 +0000",
       "minecraft:ocean": "2025-04-18 03:08:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-19 02:00:33 +0000",
       "minecraft:warm_ocean": "2025-04-18 22:33:14 +0000",
       "atmospheric:scrubland": "2025-04-18 23:13:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 03:08:03 +0000",
