@@ -2699,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-19 03:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 02:29:08 +0000",
@@ -4667,6 +4673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-19 03:46:34 +0000"
+    },
+    "done": true
+  },
   "vinery:basket": {
     "criteria": {
       "has_wheat": "2025-04-18 02:21:13 +0000"
@@ -5732,6 +5744,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 02:39:00 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2025-04-19 03:46:34 +0000"
     },
     "done": true
   },
@@ -8998,6 +9016,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-19 03:46:34 +0000"
     },
     "done": true
   },

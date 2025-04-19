@@ -2170,3 +2170,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 03:15:42.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que haces
 [19Apr2025 03:16:10.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
 [19Apr2025 03:47:16.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/127669, l='ServerLevel[world]', x=1073.30, y=73.00, z=3316.30] died, message: 'Unemployed was slain by Vindicator'
+[19Apr2025 03:53:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] god is coming
+[19Apr2025 03:53:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] god is cuming
+[19Apr2025 03:54:06.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] in your face
+[19Apr2025 03:55:35.327] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 03:55:35.329] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 03:55:35.388] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 03:55:35.445] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 03:55:35.505] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 03:55:35.505] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 03:55:35.563] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 03:55:35.621] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 03:55:35.679] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 03:55:35.739] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 03:55:35.796] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 03:55:35.851] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 03:55:37.077] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 03:55:37.083] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 03:55:37.090] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 03:55:37.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e07f2a1
+[19Apr2025 03:55:37.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.185.233.136:33037] logged in with entity id 130360 at (1105.9645544058656, 63.0, 3360.8357025261666)
+[19Apr2025 03:55:37.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[19Apr2025 03:55:37.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[19Apr2025 03:55:37.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[19Apr2025 03:55:37.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[19Apr2025 03:55:37.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[19Apr2025 03:55:37.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[19Apr2025 03:55:37.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[19Apr2025 03:55:37.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[19Apr2025 03:55:37.263] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[19Apr2025 03:55:37.268] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[19Apr2025 03:55:37.269] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 03:55:37.270] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23
+[19Apr2025 03:56:10.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/130374, l='ServerLevel[world]', x=1068.38, y=74.00, z=3332.10] died, message: 'Fletcher was slain by Vindicator'
+[19Apr2025 03:56:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 21 [Golden Apple] to Joselin23]
+[19Apr2025 03:56:36.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 5 [Enchanted Golden Apple] to Joselin23]
+[19Apr2025 03:58:46.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/130398, l='ServerLevel[world]', x=1049.90, y=77.00, z=3297.30] died, message: 'Weaponsmith was slain by Zombie'
+[19Apr2025 03:58:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
