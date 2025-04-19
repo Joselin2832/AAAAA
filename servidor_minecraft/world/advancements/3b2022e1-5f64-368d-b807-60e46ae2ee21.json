@@ -1287,7 +1287,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2025-04-19 05:16:36 +0000"
+      "hydra": "2025-04-19 05:16:36 +0000",
+      "ur_ghast": "2025-04-19 05:38:35 +0000"
     },
     "done": false
   },
@@ -1682,6 +1683,12 @@
     "criteria": {
       "has_fishing_rod": "2025-04-18 06:39:45 +0000",
       "has_fillet_knife": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-19 05:32:36 +0000"
     },
     "done": true
   },
@@ -2423,6 +2430,7 @@
       "twilight_oak_planks": "2025-04-19 04:40:49 +0000",
       "twilight_oak_log": "2025-04-19 04:40:03 +0000",
       "twilight_oak_sapling": "2025-04-19 04:36:55 +0000",
+      "encased_towerwood": "2025-04-19 05:32:56 +0000",
       "towerwood": "2025-04-19 05:28:54 +0000"
     },
     "done": false
@@ -2686,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 19:08:39 +0000"
@@ -2829,6 +2843,12 @@
   "vinery:wine_rack_3": {
     "criteria": {
       "has_spruce_planks": "2025-04-18 19:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
     },
     "done": true
   },
@@ -3104,6 +3124,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 07:10:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-04-19 05:38:46 +0000"
     },
     "done": true
   },
@@ -3548,6 +3574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/blackstone_stove": {
     "criteria": {
       "has_nether_brick": "2025-04-18 19:35:18 +0000"
@@ -3686,12 +3718,6 @@
       "has_chest": "2025-04-18 19:53:50 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-04-19 05:30:57 +0000"
-    },
-    "done": false
   },
   "apotheosis:enchanting/30ench": {
     "criteria": {
@@ -4083,6 +4109,12 @@
   "twilightforest:recipes/twilightforest/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-04-19 05:28:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
     },
     "done": true
   },
@@ -5117,6 +5149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-04-18 22:47:40 +0000"
@@ -5234,6 +5272,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 21:58:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-04-19 05:34:25 +0000"
     },
     "done": true
   },
@@ -5420,6 +5464,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
     },
     "done": true
   },
@@ -6188,6 +6238,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-04-19 05:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
@@ -6753,6 +6809,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 05:38:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/dull_trinket": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6786,6 +6848,12 @@
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-04-18 18:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
     },
     "done": true
   },
@@ -6879,6 +6947,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-04-19 05:38:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/old_netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:13:08 +0000"
@@ -6930,6 +7004,12 @@
   "aether:recipes/tools/golden_hoe_repairing": {
     "criteria": {
       "has_golden_hoe": "2025-04-19 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
     },
     "done": true
   },
@@ -7646,9 +7726,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-04-19 05:25:56 +0000"
+      "previous_progression": "2025-04-19 05:25:56 +0000",
+      "ghast": "2025-04-19 05:38:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
@@ -7955,6 +8036,12 @@
       "has_item_1": "2025-04-18 17:51:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
@@ -8336,6 +8423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-19 05:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:13:08 +0000"
@@ -8400,6 +8493,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-04-18 07:09:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 05:32:36 +0000"
     },
     "done": true
   },

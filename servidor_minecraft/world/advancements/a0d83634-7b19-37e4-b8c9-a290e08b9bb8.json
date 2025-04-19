@@ -780,6 +780,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-04-19 05:37:33 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 02:37:05 +0000"
