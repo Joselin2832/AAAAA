@@ -1220,6 +1220,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/smithing/reinforced_deorum_knife": {
+    "criteria": {
+      "has_stellarite_piece": "2025-04-19 04:41:34 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:25:21 +0000"
@@ -1307,6 +1313,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 18:21:57 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/stellarite_block_from_stellarite_piece": {
+    "criteria": {
+      "has_stellarite_piece": "2025-04-19 04:41:34 +0000"
     },
     "done": true
   },

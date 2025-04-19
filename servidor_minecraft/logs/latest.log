@@ -2266,3 +2266,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 04:39:49.317] [Worker-Main278/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [131, 249], pos: BlockPos{x=2100, y=49, z=3984}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
 [19Apr2025 04:39:49.317] [Worker-Main278/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [131, 249], pos: BlockPos{x=2100, y=50, z=3984}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
 [19Apr2025 04:39:49.317] [Worker-Main278/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [131, 249], pos: BlockPos{x=2100, y=48, z=3984}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / twilightforest:tree/hollow_oak]
+[19Apr2025 04:42:35.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was at a loss for words after being killed by Death Tome
+[19Apr2025 04:42:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 3 experience levels to Joselin23]
+[19Apr2025 04:43:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 04:43:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 2067.500000, 5.500000, 3857.500000]
+[19Apr2025 04:45:47.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Zombie
+[19Apr2025 04:45:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Epic!]
+[19Apr2025 04:47:41.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gress'/191898, l='ServerLevel[world]', x=-581.34, y=14.00, z=113.10] died: Gress was slain by Gress
+[19Apr2025 04:49:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 04:50:25.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Bring Out Your Dead]
