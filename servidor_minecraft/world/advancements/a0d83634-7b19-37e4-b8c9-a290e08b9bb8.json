@@ -9037,6 +9037,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/twilightforest/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-04-19 05:06:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"

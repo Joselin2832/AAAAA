@@ -1539,9 +1539,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-04-19 05:10:30 +0000",
       "kill_lich": "2025-04-19 04:50:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
@@ -2483,6 +2484,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-19 05:10:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-04-18 19:01:33 +0000"
@@ -2977,6 +2984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-19 05:01:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
       "has_leggings": "2025-04-18 06:39:45 +0000",
@@ -3380,6 +3393,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-04-19 05:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 19:58:30 +0000"
@@ -3549,6 +3568,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-04-19 05:10:30 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
       "has_the_recipe": "2025-04-19 04:56:37 +0000"
@@ -3630,7 +3655,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-04-19 04:59:21 +0000"
+      "not_target": "2025-04-19 05:05:39 +0000"
     },
     "done": false
   },
@@ -4592,6 +4617,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-04-18 18:01:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 05:04:27 +0000"
     },
     "done": true
   },
@@ -7249,6 +7280,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-04-19 05:04:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -7954,6 +7991,12 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-04-18 19:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-19 05:01:24 +0000"
     },
     "done": true
   },
