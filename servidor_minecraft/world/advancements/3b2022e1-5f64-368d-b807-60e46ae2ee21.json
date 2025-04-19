@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
@@ -714,9 +720,21 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 17:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -771,6 +789,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-19 00:39:38 +0000"
     },
     "done": true
   },
@@ -984,6 +1008,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:13:08 +0000"
@@ -1035,6 +1065,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 22:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -1176,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_red_mushroom": "2025-04-18 22:01:20 +0000"
@@ -1197,6 +1239,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-04-18 22:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -1414,6 +1462,18 @@
   "ars_nouveau:recipes/ars_nouveau/potion_jar": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tool_scraps": {
+    "criteria": {
+      "picked_up_accessory": "2025-04-19 00:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -1965,6 +2025,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-19 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 17:46:24 +0000"
@@ -2466,6 +2532,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -3144,6 +3216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -3159,6 +3237,12 @@
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-04-18 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -3294,6 +3378,12 @@
       "has_chest": "2025-04-18 19:53:50 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-19 00:32:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -3453,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -3588,6 +3684,12 @@
   "upgradednetherite_ultimate:recipes/essences/ultimate_upgraded_netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 20:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -4009,6 +4111,12 @@
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_coal": "2025-04-18 19:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -4501,6 +4609,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 18:03:54 +0000",
@@ -4674,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -4713,6 +4833,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-18 17:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/poison_essence": {
+    "criteria": {
+      "has_spider_eye": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -4884,9 +5016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-18 19:28:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-04-19 00:39:51 +0000"
     },
     "done": true
   },
@@ -5880,6 +6024,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-04-18 22:36:48 +0000"
@@ -6066,6 +6216,12 @@
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2025-04-18 17:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -6845,6 +7001,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_elemental/advanced_prism": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6914,6 +7076,18 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -7139,6 +7313,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -7217,6 +7397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-04-18 19:55:57 +0000"
@@ -7256,6 +7442,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2025-04-18 23:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },

@@ -4423,6 +4423,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-04-19 00:32:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
