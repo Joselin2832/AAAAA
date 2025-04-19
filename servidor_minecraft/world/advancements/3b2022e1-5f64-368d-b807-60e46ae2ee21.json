@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:54:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-04-18 22:41:55 +0000"
@@ -1893,6 +1899,12 @@
     },
     "done": true
   },
+  "ars_elemental:curio_bag": {
+    "criteria": {
+      "has_curio_bag": "2025-04-19 06:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-18 18:57:06 +0000",
@@ -2017,6 +2029,12 @@
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:54:20 +0000"
     },
     "done": true
   },
@@ -3356,9 +3374,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-04-19 00:43:11 +0000"
+      "has_parent_recipe": "2025-04-19 00:43:11 +0000",
+      "has_items": "2025-04-19 06:54:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3677,6 +3696,12 @@
     "criteria": {
       "has_potato": "2025-04-18 06:39:45 +0000",
       "has_book": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2025-04-19 06:54:20 +0000"
     },
     "done": true
   },
@@ -5443,7 +5468,8 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
-      "spellstone1": "2025-04-18 17:51:09 +0000"
+      "spellstone1": "2025-04-18 17:51:09 +0000",
+      "spellstone5": "2025-04-19 06:54:20 +0000"
     },
     "done": false
   },
@@ -7421,6 +7447,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2025-04-19 06:54:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -8303,7 +8335,8 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
-      "has_item_1": "2025-04-18 17:51:09 +0000"
+      "has_item_1": "2025-04-18 17:51:09 +0000",
+      "has_item_5": "2025-04-19 06:54:20 +0000"
     },
     "done": false
   },
@@ -8654,6 +8687,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-04-18 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-19 06:58:03 +0000"
     },
     "done": true
   },

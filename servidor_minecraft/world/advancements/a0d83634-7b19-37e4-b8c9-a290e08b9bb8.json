@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-19 06:55:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -3389,6 +3395,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-18 02:55:53 +0000"
@@ -3932,6 +3944,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-18 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-04-19 06:55:17 +0000"
     },
     "done": true
   },
@@ -5100,6 +5118,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 02:43:58 +0000"
@@ -5472,6 +5496,12 @@
   "enigmaticlegacy:book/materials/etherium": {
     "criteria": {
       "has_items": "2025-04-18 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-04-19 06:55:17 +0000"
     },
     "done": true
   },
@@ -6108,6 +6138,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-18 02:10:35 +0000"
@@ -6713,6 +6749,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-04-19 06:55:17 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-04-18 02:12:00 +0000"
@@ -6746,9 +6788,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000",
       "has_items": "2025-04-18 03:41:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -6983,6 +7026,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:55:17 +0000"
     },
     "done": true
   },
@@ -8278,6 +8327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-19 06:55:17 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone_stairs": {
     "criteria": {
       "has_item": "2025-04-18 20:00:46 +0000"
@@ -8513,6 +8568,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 02:10:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-19 06:55:17 +0000"
     },
     "done": true
   },
@@ -8763,6 +8824,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-04-19 06:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 02:12:00 +0000"
@@ -8861,6 +8928,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-04-18 18:10:56 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:55:17 +0000"
     },
     "done": true
   },
@@ -9334,9 +9407,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000",
       "has_items": "2025-04-18 02:25:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/twilightforest/firefly_jar": {
     "criteria": {
@@ -9807,6 +9881,7 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000",
       "has_items2": "2025-04-18 20:08:55 +0000"
     },
     "done": false
@@ -9828,6 +9903,12 @@
       "in_water": "2025-04-18 02:41:09 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-19 06:55:17 +0000"
+    },
+    "done": false
   },
   "endrem:main/lost_eye": {
     "criteria": {

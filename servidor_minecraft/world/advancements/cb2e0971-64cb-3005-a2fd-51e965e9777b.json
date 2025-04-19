@@ -600,6 +600,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 06:58:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-04-18 04:37:54 +0000"
@@ -1016,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-19 06:56:14 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:dream_catcher": {
     "criteria": {
       "picked_up_accessory": "2025-04-18 04:14:02 +0000"
@@ -1163,6 +1175,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-04-18 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 06:56:14 +0000"
     },
     "done": true
   },
@@ -2977,6 +2995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-19 06:56:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -3022,6 +3046,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-18 23:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-19 06:56:14 +0000"
     },
     "done": true
   },
@@ -3344,9 +3374,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
+      "has_recipe_result": "2025-04-19 06:58:29 +0000",
       "has_items": "2025-04-18 18:07:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3622,6 +3653,12 @@
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-18 22:40:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2025-04-19 06:58:29 +0000"
     },
     "done": true
   },
@@ -3929,21 +3966,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-04-19 06:48:14 +0000",
-      "!bit14": "2025-04-19 06:48:14 +0000",
-      "!bit11": "2025-04-19 06:48:14 +0000",
-      "!bit12": "2025-04-19 06:48:14 +0000",
-      "!bit10": "2025-04-19 06:48:14 +0000",
-      "!bit9": "2025-04-19 06:48:14 +0000",
-      "!bit8": "2025-04-19 06:48:14 +0000",
-      "!bit7": "2025-04-19 06:48:14 +0000",
-      "!bit6": "2025-04-19 06:48:14 +0000",
-      "!bit5": "2025-04-19 06:48:14 +0000",
-      "!bit4": "2025-04-19 06:48:14 +0000",
-      "!bit3": "2025-04-19 06:48:14 +0000",
-      "!bit2": "2025-04-19 06:48:14 +0000",
-      "!bit1": "2025-04-19 06:48:14 +0000",
-      "!bit0": "2025-04-19 06:48:14 +0000"
+      "target": "2025-04-19 06:59:28 +0000"
     },
     "done": false
   },
@@ -4892,6 +4915,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 06:56:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_13": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -5774,6 +5803,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-18 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/vodka": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 06:56:14 +0000"
     },
     "done": true
   },
@@ -7105,6 +7140,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-18 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-19 06:54:42 +0000"
     },
     "done": true
   },

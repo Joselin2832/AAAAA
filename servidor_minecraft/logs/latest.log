@@ -3082,3 +3082,59 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [19Apr2025 06:54:40.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
 [19Apr2025 06:55:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
 [19Apr2025 06:55:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:55:39.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:55:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:56:00.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Researching Table] to Joselin23]
+[19Apr2025 06:56:17.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Klaudius Bloodglare
+[19Apr2025 06:56:19.951] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:56:19.951] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:56:19.951] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:56:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Cave Spider
+[19Apr2025 06:56:38.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:56:38.573] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:56:38.574] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:57:17.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
+[19Apr2025 06:57:25.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Klaudius Bloodglare
+[19Apr2025 06:57:26.089] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 06:57:26.090] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[19Apr2025 06:57:26.091] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 06:57:26.091] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 06:57:26.091] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 06:57:27.385] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:57:27.386] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:57:27.386] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:57:35.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 06:58:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Klaudius Bloodglare
+[19Apr2025 06:58:22.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:58:22.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:58:22.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:58:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Supersolid Wizard]
+[19Apr2025 06:58:29.852] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Air'/268469, l='ServerLevel[world]', x=2824.70, y=29.90, z=4106.36]
+[19Apr2025 06:58:29.852] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Air'/268469, l='ServerLevel[world]', x=2824.70, y=29.90, z=4106.36]
+[19Apr2025 06:58:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Klaudius Bloodglare
+[19Apr2025 06:58:32.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 06:58:32.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[19Apr2025 06:58:32.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 06:58:32.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 06:58:32.102] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 06:58:33.206] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:58:33.206] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:58:33.206] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:58:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
+[19Apr2025 06:59:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:59:48.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/264812, l='ServerLevel[world]', x=2822.53, y=30.00, z=4108.50] died: Klaudius Bloodglare was slain by Gress
+[19Apr2025 07:00:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:01:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:01:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:02:39.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:02:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Enderman
+[19Apr2025 07:02:46.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:02:46.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:02:46.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 07:02:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:02:53.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
+[19Apr2025 07:03:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:03:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:03:40.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 200 experience levels to Joselin23]
+[19Apr2025 07:05:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:05:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
