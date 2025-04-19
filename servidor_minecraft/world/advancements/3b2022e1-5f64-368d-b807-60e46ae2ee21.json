@@ -1492,9 +1492,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-04-19 05:25:56 +0000",
       "previous_progression": "2025-04-19 05:19:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
@@ -2421,7 +2422,8 @@
     "criteria": {
       "twilight_oak_planks": "2025-04-19 04:40:49 +0000",
       "twilight_oak_log": "2025-04-19 04:40:03 +0000",
-      "twilight_oak_sapling": "2025-04-19 04:36:55 +0000"
+      "twilight_oak_sapling": "2025-04-19 04:36:55 +0000",
+      "towerwood": "2025-04-19 05:28:54 +0000"
     },
     "done": false
   },
@@ -3685,6 +3687,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-19 05:30:57 +0000"
+    },
+    "done": false
+  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-04-19 04:19:42 +0000"
@@ -4069,6 +4077,12 @@
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-19 05:28:54 +0000"
     },
     "done": true
   },
@@ -5118,6 +5132,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-04-19 05:28:54 +0000"
     },
     "done": true
   },
@@ -6925,6 +6945,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 05:26:05 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
@@ -7617,6 +7643,12 @@
       "has_item": "2025-04-18 19:27:37 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-04-19 05:25:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {

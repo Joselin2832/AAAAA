@@ -2347,3 +2347,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 05:19:41.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Trophied Champion]
 [19Apr2025 05:22:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
 [19Apr2025 05:22:42.001] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[19Apr2025 05:23:15.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:24:14.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the Knight Phantom's haunt
+[19Apr2025 05:24:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:25:02.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:25:14.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:25:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -512.500000, -18.500000, 2596.500000]
+[19Apr2025 05:25:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Carminite Acclimation]
+[19Apr2025 05:25:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:28:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -470.500000, -19.000000, 2296.500000]
+[19Apr2025 05:28:14.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:28:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:28:35.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:30:16.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:30:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:32:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
