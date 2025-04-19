@@ -1701,3 +1701,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 01:02:10.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
 [19Apr2025 01:02:34.095] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
 [19Apr2025 01:02:34.096] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[19Apr2025 01:06:39.858] [Worker-Main7/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[19Apr2025 01:06:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[19Apr2025 01:06:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [The Dust Settles]
+[19Apr2025 01:07:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Defunct Machinery]
+[19Apr2025 01:07:31.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[19Apr2025 01:07:40.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! 1.3747096943388897,11.366642913229313,0.9289027081176755
+[19Apr2025 01:07:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 fell from a high place
+[19Apr2025 01:07:59.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved wrongly!
+[19Apr2025 01:09:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Magery]
+[19Apr2025 01:09:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[19Apr2025 01:09:42.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/64421, l='ServerLevel[world]', x=1192.62, y=36.00, z=3438.83] died: Lophez341 was slain by Lophez341
+[19Apr2025 01:09:53.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/64424, l='ServerLevel[world]', x=1192.43, y=36.00, z=3437.62] died: Lophez341 was slain by Lophez341
+[19Apr2025 01:12:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Matt the Honest
+[19Apr2025 01:14:21.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Maw['Matt the Honest'/66860, l='ServerLevel[world]', x=1167.92, y=28.03, z=3428.60] died: Matt the Honest was slain by Lophez341
+[19Apr2025 01:14:32.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has completed the challenge [He Wasn't So Strong]
+[19Apr2025 01:14:32.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Almost Like a Fan]

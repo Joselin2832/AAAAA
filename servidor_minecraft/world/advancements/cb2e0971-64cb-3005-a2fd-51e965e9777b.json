@@ -884,6 +884,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-19 01:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-19 00:52:50 +0000"
@@ -1717,6 +1723,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-04-19 01:03:15 +0000"
     },
     "done": true
   },
@@ -3180,6 +3192,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-04-19 01:14:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/lore_inscriber": {
     "criteria": {
       "etherium": "2025-04-18 17:57:35 +0000"
@@ -3572,12 +3590,6 @@
       "has_journal": "2025-04-18 04:02:01 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-19 01:00:55 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -5327,6 +5339,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-19 01:14:32 +0000"
     },
     "done": true
   },
@@ -7791,6 +7809,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-04-18 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-04-19 01:09:42 +0000"
     },
     "done": true
   },
