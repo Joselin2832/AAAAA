@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "dreamland:recipes/dreamland/plum_birch_trapdoor": {
+    "criteria": {
+      "plum_birch_trap_door": "2025-04-19 18:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-19 00:51:32 +0000"
@@ -561,6 +567,12 @@
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 18:35:56 +0000"
     },
     "done": true
   },
@@ -763,6 +775,12 @@
     },
     "done": true
   },
+  "dreamland:recipes/dreamland/plum_birch_button": {
+    "criteria": {
+      "plum_birch_button": "2025-04-19 18:35:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-04-18 18:53:19 +0000"
@@ -887,6 +905,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-04-18 04:13:03 +0000"
+    },
+    "done": true
+  },
+  "dreamland:recipes/dreamland/plum_birch_door": {
+    "criteria": {
+      "plum_birch_door": "2025-04-19 18:35:38 +0000"
     },
     "done": true
   },
@@ -1079,6 +1103,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-04-18 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-19 18:30:21 +0000"
     },
     "done": true
   },
@@ -1635,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-19 18:30:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2185,6 +2221,12 @@
     },
     "done": true
   },
+  "dreamland:recipes/dreamland/plum_birch_fence_gate": {
+    "criteria": {
+      "plum_birch_fence_gate": "2025-04-19 18:35:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2600,6 +2642,12 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-19 18:34:36 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
@@ -2675,6 +2723,12 @@
   "ars_nouveau:recipes/ars_nouveau/platform_to_pedestal": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "dreamland:recipes/dreamland/plum_birch_fence": {
+    "criteria": {
+      "plum_birch_fence": "2025-04-19 18:35:38 +0000"
     },
     "done": true
   },
@@ -3379,6 +3433,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-19 18:35:56 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_recipe_result": "2025-04-19 06:58:29 +0000",
@@ -3593,6 +3653,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-04-18 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "dreamland:recipes/dreamland/plum_birch_stairs": {
+    "criteria": {
+      "plum_birch_stair": "2025-04-19 18:35:38 +0000"
     },
     "done": true
   },
@@ -4152,6 +4218,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 04:40:48 +0000"
+    },
+    "done": true
+  },
+  "dreamland:recipes/dreamland/plum_birch_wood": {
+    "criteria": {
+      "plum_birch_log": "2025-04-19 18:35:24 +0000"
     },
     "done": true
   },
@@ -4720,6 +4792,12 @@
     },
     "done": false
   },
+  "dreamland:recipes/dreamland/plum_birch_slab": {
+    "criteria": {
+      "plum_birch_slab": "2025-04-19 18:35:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -5006,6 +5084,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-04-18 04:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 18:35:56 +0000"
     },
     "done": true
   },
@@ -5393,6 +5477,12 @@
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-19 18:30:21 +0000"
     },
     "done": true
   },
@@ -5889,6 +5979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 18:35:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -5976,6 +6072,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-18 18:56:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-19 18:34:36 +0000"
     },
     "done": true
   },
@@ -6355,6 +6457,12 @@
     },
     "done": false
   },
+  "dreamland:recipes/dreamland/plum_birch_planks": {
+    "criteria": {
+      "plum_birch_log": "2025-04-19 18:35:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2025-04-19 00:12:21 +0000"
@@ -6565,6 +6673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-19 18:30:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -6755,6 +6869,12 @@
     },
     "done": false
   },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 18:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-04-18 22:33:05 +0000"
@@ -6788,6 +6908,18 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
     "criteria": {
       "has_item": "2025-04-18 18:26:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2025-04-19 18:34:36 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/celestial_core": {
+    "criteria": {
+      "has_item": "2025-04-19 18:35:56 +0000"
     },
     "done": true
   },
@@ -7183,6 +7315,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-18 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "dreamland:recipes/dreamland/plum_birch_pressure_plate": {
+    "criteria": {
+      "plum_birch_pressure_plate": "2025-04-19 18:35:38 +0000"
     },
     "done": true
   },
@@ -8222,6 +8360,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 18:35:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2025-04-18 23:13:03 +0000"
@@ -8250,6 +8394,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 18:36:26 +0000"
     },
     "done": true
   },
