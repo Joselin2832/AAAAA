@@ -1693,3 +1693,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 00:53:53.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
 [19Apr2025 00:53:55.851] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
 [19Apr2025 00:54:05.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[19Apr2025 00:57:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Strength in Darkness]
+[19Apr2025 00:59:20.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[19Apr2025 01:00:09.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Hellfire Mantle]
+[19Apr2025 01:01:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Stare Into Despair]
+[19Apr2025 01:01:38.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Epic!]
+[19Apr2025 01:02:10.454] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[19Apr2025 01:02:34.095] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[19Apr2025 01:02:34.096] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
