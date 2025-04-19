@@ -6509,6 +6509,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-19 01:25:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-04-18 18:10:55 +0000"
@@ -7098,6 +7104,12 @@
       "has_item": "2025-04-18 20:08:55 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-19 01:25:09 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
@@ -8026,6 +8038,7 @@
       "minecraft:old_growth_birch_forest": "2025-04-18 03:08:03 +0000",
       "atmospheric:laurel_forest": "2025-04-18 02:14:09 +0000",
       "minecraft:deep_dark": "2025-04-18 04:54:01 +0000",
+      "minecraft:meadow": "2025-04-19 01:25:19 +0000",
       "minecraft:savanna": "2025-04-18 22:27:21 +0000",
       "minecraft:plains": "2025-04-18 03:05:28 +0000"
     },

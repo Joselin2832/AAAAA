@@ -3591,6 +3591,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-19 01:25:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-18 18:20:50 +0000"
