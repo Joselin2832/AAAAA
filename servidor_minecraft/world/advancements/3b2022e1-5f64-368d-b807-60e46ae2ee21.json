@@ -2583,6 +2583,13 @@
     },
     "done": true
   },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2025-04-19 04:03:15 +0000",
+      "hammer_in_mainhand": "2025-04-19 04:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
@@ -3342,6 +3349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-19 04:00:08 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-04-18 07:09:05 +0000"
@@ -3447,7 +3460,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-04-19 00:53:37 +0000"
+      "not_target": "2025-04-19 04:03:10 +0000"
     },
     "done": false
   },
