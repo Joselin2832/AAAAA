@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-04-19 04:36:43 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/transmog.creative_tab/transmogrification_table": {
     "criteria": {
       "has_item": "2025-04-18 18:01:21 +0000"
@@ -380,6 +386,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2025-04-18 20:11:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
     },
     "done": true
   },
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_sign_wood": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -828,6 +846,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2025-04-19 04:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-18 20:24:49 +0000"
@@ -921,6 +945,12 @@
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-04-19 00:47:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 04:38:33 +0000"
     },
     "done": true
   },
@@ -1170,6 +1200,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-18 20:38:31 +0000"
@@ -1356,6 +1392,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-18 06:39:45 +0000",
@@ -1390,6 +1432,12 @@
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2025-04-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-19 04:28:46 +0000"
     },
     "done": true
   },
@@ -1839,6 +1887,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
     "criteria": {
       "has_item": "2025-04-19 00:42:02 +0000"
@@ -1866,6 +1920,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 22:47:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
     },
     "done": true
   },
@@ -2115,6 +2175,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-04-19 04:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2025-04-18 19:35:18 +0000"
@@ -2235,6 +2301,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-04-19 04:26:52 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-18 20:13:48 +0000"
@@ -2258,6 +2330,14 @@
       "has_birch_planks": "2025-04-18 20:24:06 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-04-19 04:40:49 +0000",
+      "twilight_oak_log": "2025-04-19 04:40:03 +0000",
+      "twilight_oak_sapling": "2025-04-19 04:36:55 +0000"
+    },
+    "done": false
   },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
@@ -3023,6 +3103,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
     "criteria": {
       "has_item": "2025-04-18 19:58:30 +0000"
@@ -3098,6 +3184,12 @@
   "oriacs:recipes/combat/chainmembrane_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-04-18 22:01:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
     },
     "done": true
   },
@@ -3463,12 +3555,6 @@
       "has_chest": "2025-04-18 19:53:50 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-19 04:17:56 +0000"
-    },
-    "done": false
   },
   "apotheosis:enchanting/30ench": {
     "criteria": {
@@ -3868,6 +3954,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2025-04-18 07:10:15 +0000",
@@ -3944,6 +4036,12 @@
   "oriacs:recipes/combat/chainmembrane_boots": {
     "criteria": {
       "has_phantom_membrane": "2025-04-18 22:01:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-04-19 04:37:22 +0000"
     },
     "done": true
   },
@@ -4169,6 +4267,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_containment": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -4184,6 +4288,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
     },
     "done": true
   },
@@ -4529,6 +4639,18 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-19 04:40:56 +0000"
     },
     "done": true
   },
@@ -5085,6 +5207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-19 04:28:46 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:16 +0000"
@@ -5370,6 +5498,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-04-18 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-04-19 04:36:43 +0000"
     },
     "done": true
   },
@@ -5976,6 +6110,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-04-18 20:48:14 +0000"
@@ -6092,6 +6232,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6181,6 +6327,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-18 07:09:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:03 +0000"
     },
     "done": true
   },
@@ -6298,6 +6450,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
     },
     "done": true
   },
@@ -6514,6 +6672,12 @@
   "ars_nouveau:recipes/ars_nouveau/sconce": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-19 04:33:41 +0000"
     },
     "done": true
   },
@@ -7359,6 +7523,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-19 04:28:46 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_repulsion": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -7398,6 +7568,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_trim": {
     "criteria": {
       "has_planks": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
     },
     "done": true
   },
@@ -7548,6 +7724,12 @@
   "oriacs:recipes/combat/diving_helmet": {
     "criteria": {
       "enter_water": "2025-04-18 07:09:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-04-19 04:26:52 +0000"
     },
     "done": true
   },
@@ -7847,6 +8029,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-18 17:49:47 +0000"
@@ -7918,6 +8106,12 @@
       "has_template": "2025-04-18 06:39:45 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-04-19 04:37:22 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
