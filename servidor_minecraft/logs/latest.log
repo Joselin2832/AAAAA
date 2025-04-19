@@ -2972,3 +2972,68 @@ java.io.EOFException: null
 [19Apr2025 18:12:40.286] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
 [19Apr2025 18:12:40.288] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
 [19Apr2025 18:12:40.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[19Apr2025 18:13:26.384] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[19Apr2025 18:13:26.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola
+[19Apr2025 18:13:34.177] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[19Apr2025 18:13:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> qe
+[19Apr2025 18:13:39.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Hellfire Mantle]
+[19Apr2025 18:14:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 18:14:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sayt er<--[HERE]
+[19Apr2025 18:14:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] eres el legendario kemonito?
+[19Apr2025 18:14:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ei
+[19Apr2025 18:15:42.893] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 18:15:42.894] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 18:15:42.894] [Worker-Main5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 18:15:42.950] [Worker-Main5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[19Apr2025 18:15:42.950] [Worker-Main5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[19Apr2025 18:15:42.951] [Worker-Main5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[19Apr2025 18:15:42.951] [Worker-Main5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[19Apr2025 18:15:42.952] [Worker-Main5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[19Apr2025 18:15:43.433] [Worker-Main23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-74}
+[19Apr2025 18:15:43.434] [Worker-Main23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-164, y=-1, z=-77}
+[19Apr2025 18:15:47.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> vete ala roña
+[19Apr2025 18:15:49.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> casi me muero
+[19Apr2025 18:16:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> me salio un whiter skeleton mejorado
+[19Apr2025 18:17:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [The Dust Settles]
+[19Apr2025 18:18:38.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[19Apr2025 18:18:38.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[19Apr2025 18:18:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Blaze
+[19Apr2025 18:18:41.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[19Apr2025 18:18:55.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[19Apr2025 18:21:42.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Straddle My Ol' Saddle]
+[19Apr2025 18:22:06.526] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 18:22:06.571] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 18:22:06.614] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 18:22:06.660] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 18:22:06.709] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 18:22:06.756] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 18:22:06.805] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 18:22:06.866] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 18:22:06.914] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 18:22:06.962] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 18:22:07.009] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 18:22:07.056] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 18:22:09.461] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 18:22:09.501] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 18:22:09.502] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 18:22:09.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64553627
+[19Apr2025 18:22:09.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.17.127.16:39493] logged in with entity id 7662 at (1101.300000011921, 62.0, 3365.300000011921)
+[19Apr2025 18:22:09.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[19Apr2025 18:22:09.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[19Apr2025 18:22:09.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[19Apr2025 18:22:09.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[19Apr2025 18:22:09.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[19Apr2025 18:22:09.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[19Apr2025 18:22:09.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[19Apr2025 18:22:09.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[19Apr2025 18:22:09.714] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[19Apr2025 18:22:09.777] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[19Apr2025 18:22:09.777] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 18:22:09.778] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[19Apr2025 18:22:44.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Blaze
+[19Apr2025 18:22:44.372] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 18:22:44.372] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[19Apr2025 18:22:44.372] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 18:22:44.373] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 18:22:44.373] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 18:22:49.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType

@@ -1939,7 +1939,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-18 18:56:42 +0000",
-      "minecraft:warped_forest": "2025-04-18 19:07:39 +0000"
+      "minecraft:warped_forest": "2025-04-18 19:07:39 +0000",
+      "minecraft:basalt_deltas": "2025-04-19 18:13:47 +0000"
     },
     "done": false
   },
@@ -3964,12 +3965,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-19 07:07:29 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-18 18:20:50 +0000"
@@ -4362,6 +4357,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-19 18:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-18 22:22:35 +0000"
@@ -4594,6 +4595,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-18 18:17:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:recipes/misc/golden_dice": {
+    "criteria": {
+      "has_dice": "2025-04-19 18:15:03 +0000"
     },
     "done": true
   },
@@ -5345,8 +5352,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 04:34:44 +0000",
+      "minecraft:blaze": "2025-04-19 18:12:06 +0000",
       "minecraft:skeleton": "2025-04-18 04:30:27 +0000",
       "minecraft:spider": "2025-04-18 04:24:52 +0000",
+      "minecraft:wither_skeleton": "2025-04-19 18:14:21 +0000",
       "minecraft:husk": "2025-04-18 18:43:03 +0000",
       "minecraft:cave_spider": "2025-04-18 04:33:04 +0000",
       "minecraft:silverfish": "2025-04-18 17:56:17 +0000",
@@ -6712,9 +6721,11 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-04-19 18:17:06 +0000",
       "incendium:infernal_dunes": "2025-04-18 18:50:52 +0000",
       "incendium:quartz_flats": "2025-04-18 18:46:21 +0000",
-      "incendium:inverted_forest": "2025-04-18 19:08:21 +0000"
+      "incendium:inverted_forest": "2025-04-18 19:08:21 +0000",
+      "incendium:volcanic_deltas": "2025-04-19 18:13:39 +0000"
     },
     "done": false
   },
@@ -7450,6 +7461,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-04-19 18:12:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-19 01:51:03 +0000"
@@ -7519,6 +7536,12 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-19 18:17:06 +0000"
     },
     "done": true
   },
@@ -8357,6 +8380,12 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-04-18 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-04-19 18:13:39 +0000"
     },
     "done": true
   },
