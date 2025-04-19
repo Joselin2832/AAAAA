@@ -2612,3 +2612,313 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 06:23:51.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
 [19Apr2025 06:23:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Prowler
 [19Apr2025 06:23:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
+[19Apr2025 06:25:11.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:25:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:25:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Captured!]
+[19Apr2025 06:26:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Kelvin
+[19Apr2025 06:26:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 06:27:25.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved too quickly! -53.65159868002138,12.0,-8.36264803361064
+[19Apr2025 06:28:05.649] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[19Apr2025 06:28:05.649] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[19Apr2025 06:28:05.658] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Failed to print data for packet
+java.lang.reflect.InaccessibleObjectException: Unable to make field private volatile java.lang.String java.lang.Thread.name accessible: module java.base does not "opens java.lang" to module com.google.gson
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297) ~[?:?]
+	at java.lang.reflect.Field.checkCanSetAccessible(Field.java:178) ~[?:?]
+	at java.lang.reflect.Field.setAccessible(Field.java:172) ~[?:?]
+	at com.google.gson.internal.reflect.UnsafeReflectionAccessor.makeAccessible(UnsafeReflectionAccessor.java:44) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:159) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory.create(CollectionTypeAdapterFactory.java:53) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:727) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:714) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:669) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:649) ~[gson-2.8.9.jar%2370!/:?]
+	at com.connectivity.logging.PacketLogging.logPacket(PacketLogging.java:42) ~[connectivity-1.19.2-4.6.jar%23377!/:1.19.2-4.6]
+	at net.minecraft.network.PacketEncoder.handler$chb000$onError(PacketEncoder.java:553) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:59) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:198) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 06:28:05.658] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Failed to print data for packet
+java.lang.reflect.InaccessibleObjectException: Unable to make field private volatile java.lang.String java.lang.Thread.name accessible: module java.base does not "opens java.lang" to module com.google.gson
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354) ~[?:?]
+	at java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297) ~[?:?]
+	at java.lang.reflect.Field.checkCanSetAccessible(Field.java:178) ~[?:?]
+	at java.lang.reflect.Field.setAccessible(Field.java:172) ~[?:?]
+	at com.google.gson.internal.reflect.UnsafeReflectionAccessor.makeAccessible(UnsafeReflectionAccessor.java:44) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:159) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.CollectionTypeAdapterFactory.create(CollectionTypeAdapterFactory.java:53) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.createBoundField(ReflectiveTypeAdapterFactory.java:117) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.getBoundFields(ReflectiveTypeAdapterFactory.java:166) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.create(ReflectiveTypeAdapterFactory.java:102) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.getAdapter(Gson.java:489) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:727) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:714) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:669) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:649) ~[gson-2.8.9.jar%2370!/:?]
+	at com.connectivity.logging.PacketLogging.logPacket(PacketLogging.java:42) ~[connectivity-1.19.2-4.6.jar%23377!/:1.19.2-4.6]
+	at net.minecraft.network.PacketEncoder.handler$chb000$onError(PacketEncoder.java:553) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:59) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:198) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 06:28:05.659] [Netty Epoll Server IO #7/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:198) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 06:28:05.660] [Netty Epoll Server IO #1/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 83
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:678) ~[fastutil-8.5.6.jar%2389!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1083) ~[fastutil-8.5.6.jar%2389!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:483) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:541) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:520) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-codec-4.1.77.Final.jar%2380!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.77.Final.jar%2384!/:4.1.77.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:209) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:198) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:391) [netty-transport-classes-epoll-4.1.77.Final.jar%2385!/:4.1.77.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:995) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.77.Final.jar%2381!/:4.1.77.Final]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 06:28:05.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[19Apr2025 06:28:05.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 left the game
+[19Apr2025 06:28:05.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[19Apr2025 06:28:05.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[19Apr2025 06:28:08.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[19Apr2025 06:28:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> sadas
+[19Apr2025 06:28:26.898] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:28:27.195] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:28:27.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:28:27.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:28:27.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:28:27.197] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:28:27.197] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:28:27.198] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:28:27.440] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:28:27.441] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:28:27.442] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:28:27.442] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:28:27.784] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:28:27.841] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:28:27.899] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:28:27.957] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:28:27.957] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:28:28.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:28:28.072] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:28:28.105] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:28:28.107] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:28:28.117] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:28:28.126] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:28:28.184] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:28:28.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19318a5c
+[19Apr2025 06:28:28.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lophez341[/127.214.85.198:36271] logged in with entity id 253405 at (1101.0432345021752, 68.5, 3359.2986097820726)
+[19Apr2025 06:28:28.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lophez341
+[19Apr2025 06:28:28.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lophez341
+[19Apr2025 06:28:28.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lophez341
+[19Apr2025 06:28:28.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lophez341
+[19Apr2025 06:28:28.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lophez341
+[19Apr2025 06:28:28.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lophez341
+[19Apr2025 06:28:28.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lophez341
+[19Apr2025 06:28:28.240] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:28:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 joined the game
+[19Apr2025 06:28:28.353] [Server thread/INFO] [Jade/]: Syncing config to Lophez341 (cb2e0971-64cb-3005-a2fd-51e965e9777b)
+[19Apr2025 06:28:28.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lophez341...
+[19Apr2025 06:28:28.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:28:28.359] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lophez341
+[19Apr2025 06:28:28.421] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:28:28.449] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:28:28.763] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:28:28.769] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:28:28.772] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:28:28.853] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@153fb79a
+[19Apr2025 06:28:28.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.185.233.136:47651] logged in with entity id 253414 at (1104.462839179406, 68.0, 3363.911792972073)
+[19Apr2025 06:28:28.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[19Apr2025 06:28:28.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[19Apr2025 06:28:28.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[19Apr2025 06:28:28.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[19Apr2025 06:28:28.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[19Apr2025 06:28:28.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[19Apr2025 06:28:28.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[19Apr2025 06:28:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[19Apr2025 06:28:28.992] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[19Apr2025 06:28:28.996] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[19Apr2025 06:28:28.996] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:28:28.997] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23
+[19Apr2025 06:29:02.799] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:02.799] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:02.800] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:02.800] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:02.800] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:02.800] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:09.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> }asda
+[19Apr2025 06:29:33.054] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:29:33.054] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:29:33.055] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:29:35.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Joselin23
+[19Apr2025 06:29:36.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:36.727] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:29:36.727] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:31:16.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 06:32:01.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has completed the challenge [Trials And Talismans]
+[19Apr2025 06:32:11.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Cisco
+[19Apr2025 06:32:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Cisco
+[19Apr2025 06:32:14.237] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:32:14.237] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:32:14.238] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:32:23.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 06:32:23.945] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:32:23.948] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:32:23.949] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:33:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by AfterImage
+[19Apr2025 06:33:49.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Cisco
+[19Apr2025 06:33:49.739] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 06:33:49.739] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[19Apr2025 06:33:49.739] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 06:33:49.740] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 06:33:49.740] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 06:33:50.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:33:50.151] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:33:50.151] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:33:50.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Cisco
+[19Apr2025 06:33:51.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:33:51.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:33:51.061] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:34:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 23 experience levels to Joselin23]
+[19Apr2025 06:34:13.392] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:34:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:34:13.395] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:34:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Magnificence]

@@ -2173,6 +2173,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 06:30:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2416,6 +2422,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 04:29:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 06:29:27 +0000"
     },
     "done": true
   },
@@ -3680,6 +3692,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-19 06:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-18 23:19:57 +0000"
@@ -3800,12 +3818,6 @@
       "enchanted_item": "2025-04-19 01:55:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-04-19 06:18:05 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -4611,6 +4623,12 @@
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2025-04-18 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-19 06:30:17 +0000"
     },
     "done": true
   },
@@ -7557,6 +7575,12 @@
   "ars_elemental:recipes/ars_elemental/advanced_prism": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-04-19 06:25:31 +0000"
     },
     "done": true
   },

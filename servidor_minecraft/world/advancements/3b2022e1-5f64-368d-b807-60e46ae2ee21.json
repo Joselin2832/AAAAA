@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-19 06:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
@@ -2152,6 +2158,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 06:25:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/compressed_blocks/ironwood_block": {
     "criteria": {
       "has_item": "2025-04-19 06:00:06 +0000"
@@ -2431,6 +2443,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 06:26:56 +0000"
     },
     "done": true
   },
@@ -2878,6 +2896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 06:24:17 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:hulk_smash": {
     "criteria": {
       "hammer_in_offhand": "2025-04-19 04:03:15 +0000",
@@ -3206,6 +3230,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-04-19 06:26:05 +0000"
     },
     "done": true
   },
@@ -3725,6 +3755,12 @@
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-04-18 07:09:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-19 06:26:56 +0000"
     },
     "done": true
   },
@@ -4663,6 +4699,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-19 06:25:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/starbuncle_shades": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -5559,6 +5601,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-19 06:24:17 +0000"
     },
     "done": true
   },
