@@ -2169,3 +2169,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 03:09:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ez
 [19Apr2025 03:15:42.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que haces
 [19Apr2025 03:16:10.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[19Apr2025 03:47:16.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/127669, l='ServerLevel[world]', x=1073.30, y=73.00, z=3316.30] died, message: 'Unemployed was slain by Vindicator'
