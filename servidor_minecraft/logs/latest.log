@@ -2211,3 +2211,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 04:03:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Hulk Smash!]
 [19Apr2025 04:06:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Mutant Zombie]
 [19Apr2025 04:09:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Voluntary Exile]
+[19Apr2025 04:11:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 04:11:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 04:13:47.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[19Apr2025 04:13:52.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Chancellor Aaron'/133459, l='ServerLevel[world]', x=1081.94, y=87.00, z=3283.68] died: Chancellor Aaron was slain by Joselin23
+[19Apr2025 04:16:16.765] [Worker-Main216/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:16:16.765] [Worker-Main216/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:16:16.765] [Worker-Main216/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:16:16.765] [Worker-Main216/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Apr2025 04:16:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to rain & thunder]
+[19Apr2025 04:16:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set the weather to rain & thunder]
+[19Apr2025 04:17:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 04:17:34.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress moved wrongly!
+[19Apr2025 04:19:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [The Basics]
