@@ -1516,3 +1516,135 @@ java.lang.IllegalArgumentException: null
 [19Apr2025 00:13:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Gress]
 [19Apr2025 00:13:54.342] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/23001, l='ServerLevel[world]', x=11792.32, y=94.50, z=15332.18]
 [19Apr2025 00:13:54.342] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/23001, l='ServerLevel[world]', x=11792.32, y=94.50, z=15332.18]
+[19Apr2025 00:14:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Joselin23
+[19Apr2025 00:14:52.834] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 11787.5, Y: 101.0, Z: 15323.5
+[19Apr2025 00:14:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Gress]
+[19Apr2025 00:15:09.244] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/23841, l='ServerLevel[world]', x=11787.50, y=102.50, z=15323.50]
+[19Apr2025 00:15:09.244] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/23841, l='ServerLevel[world]', x=11787.50, y=102.50, z=15323.50]
+[19Apr2025 00:15:14.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/22481, l='ServerLevel[world]', x=11787.43, y=85.50, z=15329.32] died: Gress was slain by Gress
+[19Apr2025 00:15:44.813] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=60, z=-262}
+[19Apr2025 00:15:44.815] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=60, z=-262}
+[19Apr2025 00:15:44.817] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=61, z=-262}
+[19Apr2025 00:15:44.818] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=61, z=-262}
+[19Apr2025 00:15:44.818] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=62, z=-262}
+[19Apr2025 00:15:44.818] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=62, z=-262}
+[19Apr2025 00:15:45.635] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-118, y=-12, z=-5}
+[19Apr2025 00:15:47.519] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=11698, y=35, z=14912}
+[19Apr2025 00:15:47.535] [Worker-Main5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=11694, y=35, z=14912}
+[19Apr2025 00:15:48.173] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=-11, z=-5}
+[19Apr2025 00:15:58.917] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tpa jose
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getCapability(net.minecraftforge.common.capabilities.Capability, net.minecraft.core.Direction)" because the return value of "fox.mods.tpa.procedures.SendTPAProcedure$2.getEntity()" is null
+	at fox.mods.tpa.procedures.SendTPAProcedure.execute(SendTPAProcedure.java:45) ~[tpa-1.4.1-1.19.2.jar%23538!/:?]
+	at fox.mods.tpa.command.TpaCommand.lambda$registerCommand$0(TpaCommand.java:33) ~[tpa-1.4.1-1.19.2.jar%23538!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263) ~[brigadier-1.0.18.jar%2374!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:240) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_242600_(ServerGamePacketListenerImpl.java:1239) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:1217) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23567!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[19Apr2025 00:16:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[19Apr2025 00:16:13.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[19Apr2025 00:16:19.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[19Apr2025 00:16:20.908] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[19Apr2025 00:16:32.892] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[19Apr2025 00:16:33.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[19Apr2025 00:16:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[19Apr2025 00:16:53.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[19Apr2025 00:17:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has reached the goal [Sleeping Giant]
+[19Apr2025 00:17:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:19:21.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:19:27.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[19Apr2025 00:19:59.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[19Apr2025 00:20:01.052] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 00:20:01.054] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 00:20:01.054] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[19Apr2025 00:20:01.064] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[19Apr2025 00:20:01.066] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[19Apr2025 00:20:01.067] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[19Apr2025 00:20:01.068] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[19Apr2025 00:20:01.068] [Worker-Main7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[19Apr2025 00:20:01.892] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[19Apr2025 00:20:05.724] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[19Apr2025 00:20:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 tried to swim in lava
+[19Apr2025 00:20:16.018] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 187.7301333751185, Y: 29.0, Z: 471.21668379564693
+[19Apr2025 00:20:37.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:22:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Iron Golem
+[19Apr2025 00:22:18.577] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 123.22233992896099, Y: 90.0, Z: 426.5
+[19Apr2025 00:22:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 00:22:32.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:22:44.453] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/31138, l='ServerLevel[world]', x=123.22, y=91.50, z=426.50]
+[19Apr2025 00:22:44.453] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/31138, l='ServerLevel[world]', x=123.22, y=91.50, z=426.50]
+[19Apr2025 00:22:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Iron Golem
+[19Apr2025 00:22:45.508] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 122.30000001192093, Y: 90.0, Z: 426.5
+[19Apr2025 00:23:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:23:25.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[19Apr2025 00:23:32.967] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/32100, l='ServerLevel[world]', x=122.30, y=91.50, z=426.50]
+[19Apr2025 00:23:32.967] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/32100, l='ServerLevel[world]', x=122.30, y=91.50, z=426.50]
+[19Apr2025 00:23:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:23:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:24:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:24:10.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[19Apr2025 00:24:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Undead Knight
+[19Apr2025 00:24:24.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:24:28.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 tried to swim in lava
+[19Apr2025 00:24:28.466] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 385.99451821721954, Y: 29.600533292738554, Z: 639.9102901901322
+[19Apr2025 00:24:46.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/42, l='ServerLevel[world]', x=-13.61, y=88.00, z=112.56] died: Undead Knight was slain by Gress
+[19Apr2025 00:25:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Undead Knight
+[19Apr2025 00:25:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress tried to swim in lava
+[19Apr2025 00:25:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[19Apr2025 00:25:32.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[19Apr2025 00:25:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 tried to swim in lava
+[19Apr2025 00:25:45.202] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 341.37401798397894, Y: 28.50702805888279, Z: 617.3772650209812
+[19Apr2025 00:26:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombified Piglin
+[19Apr2025 00:26:11.902] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 1104.081458667587, Y: 63.0, Z: 3357.2254482094604
+[19Apr2025 00:26:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[19Apr2025 00:26:20.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Lophez341 to Joselin23]
+[19Apr2025 00:26:42.937] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[19Apr2025 00:26:42.938] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[19Apr2025 00:26:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 tried to swim in lava
+[19Apr2025 00:26:43.349] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Lophez341 at X: 346.8814898642112, Y: 26.538107239967434, Z: 610.4398024488585
+[19Apr2025 00:26:53.654] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Lophez341 picking up: PermanentItemEntity['Soul Crystal'/40371, l='ServerLevel[world]', x=1104.08, y=64.50, z=3357.23]
+[19Apr2025 00:26:53.654] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/40371, l='ServerLevel[world]', x=1104.08, y=64.50, z=3357.23]
+[19Apr2025 00:28:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 00:28:50.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[19Apr2025 00:29:08.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[19Apr2025 00:29:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 10 experience levels to Gress]
+[19Apr2025 00:29:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 00:29:39.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Husk
+[19Apr2025 00:29:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set Lophez341's game mode to Creative Mode]
+[19Apr2025 00:30:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set Lophez341's game mode to Survival Mode]
+[19Apr2025 00:30:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 00:30:16.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 tried to swim in lava
+[19Apr2025 00:30:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 10 experience levels to Gress]
+[19Apr2025 00:30:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 00:30:31.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Lophez341'/44606, l='ServerLevel[world]', x=1106.11, y=63.00, z=3360.85] died: Lophez341 was slain by Joselin23
+[19Apr2025 00:30:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:30:39.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Lophez341]
+[19Apr2025 00:31:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Gress
+[19Apr2025 00:31:22.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/45496, l='ServerLevel[world]', x=2769.31, y=39.00, z=4147.34] died: Gress was slain by Joselin23
+[19Apr2025 00:31:25.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/46093, l='ServerLevel[world]', x=2769.51, y=39.00, z=4145.74] died: Gress was slain by Joselin23
+[19Apr2025 00:31:28.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Gress'/45479, l='ServerLevel[world]', x=2769.51, y=39.00, z=4142.84] died: Gress was slain by Joselin23
+[19Apr2025 00:31:49.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[19Apr2025 00:32:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Recycling]
+[19Apr2025 00:32:15.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Epic!]
+[19Apr2025 00:32:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Zombie
+[19Apr2025 00:32:38.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gress'/46427, l='ServerLevel[world]', x=2763.64, y=39.00, z=4136.25] died: Gress was slain by Joselin23
+[19Apr2025 00:32:45.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[19Apr2025 00:33:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> tp
+[19Apr2025 00:33:24.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[19Apr2025 00:34:13.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[19Apr2025 00:34:19.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[19Apr2025 00:34:19.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 moved too quickly! -9.948150928572431,1.0013359791121417,1.2149759615822404

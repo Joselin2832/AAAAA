@@ -6791,6 +6791,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "has_recipe_result": "2025-04-19 00:17:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 23:17:21 +0000"

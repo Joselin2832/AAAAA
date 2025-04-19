@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/evil_ingot": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:main/mending_mixture": {
     "criteria": {
       "spellstone": "2025-04-18 22:17:28 +0000"
@@ -413,6 +419,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_mirror": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-04-19 00:03:51 +0000"
@@ -439,7 +451,8 @@
   },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-04-18 04:34:44 +0000"
+      "has_parent_recipe": "2025-04-18 04:34:44 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
   },
@@ -529,7 +542,8 @@
   },
   "enigmaticlegacy:recipes/generic/soul_compass": {
     "criteria": {
-      "has_items1": "2025-04-18 23:30:08 +0000"
+      "has_items1": "2025-04-18 23:30:08 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
   },
@@ -899,6 +913,12 @@
       "has_diamond": "2025-04-18 04:23:54 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
@@ -1363,6 +1383,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 23:30:08 +0000"
@@ -1598,6 +1624,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2025-04-19 00:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 04:29:34 +0000"
@@ -1659,6 +1691,12 @@
       "has_gold_ingot": "2025-04-18 04:34:44 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
@@ -2944,6 +2982,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-04-18 04:02:01 +0000"
@@ -3343,12 +3387,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-19 00:09:23 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-18 18:20:50 +0000"
@@ -3483,6 +3521,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/ender_slayer": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 04:40:48 +0000"
@@ -3614,6 +3658,12 @@
       "has_iron_pickaxe": "2025-04-18 18:22:01 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/scryers_crystal": {
     "criteria": {
@@ -3837,6 +3887,12 @@
       "has_glass": "2025-04-18 22:40:17 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_infinitum": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_fence": {
     "criteria": {
@@ -5415,11 +5471,23 @@
     },
     "done": false
   },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2025-04-19 00:12:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-04-18 17:55:25 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
@@ -5822,7 +5890,8 @@
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-04-18 04:29:34 +0000",
-      "has_items2": "2025-04-18 23:30:08 +0000"
+      "has_items2": "2025-04-18 23:30:08 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
   },
@@ -5931,7 +6000,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-04-18 04:13:46 +0000",
-      "golden_apple": "2025-04-18 04:25:08 +0000"
+      "golden_apple": "2025-04-18 04:25:08 +0000",
+      "melon_slice": "2025-04-19 00:14:26 +0000"
     },
     "done": false
   },
@@ -6494,6 +6564,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -6521,7 +6597,8 @@
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
       "has_parent_recipe": "2025-04-18 04:02:00 +0000",
-      "has_items3": "2025-04-18 23:30:08 +0000"
+      "has_items3": "2025-04-18 23:30:08 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
   },
@@ -6702,6 +6779,13 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-18 19:08:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "has_recipe_result": "2025-04-19 00:17:55 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": true
   },
@@ -7255,7 +7339,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_items2": "2025-04-18 23:30:08 +0000"
+      "has_items2": "2025-04-18 23:30:08 +0000",
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
     },
     "done": false
   },
@@ -7306,6 +7391,12 @@
       "has_quartz": "2025-04-18 19:06:09 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "is_cursed_one": "2025-04-19 00:12:21 +0000"
+    },
+    "done": false
   },
   "ars_elemental:recipes/decorations/alt_blossom": {
     "criteria": {
@@ -7400,6 +7491,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-18 17:55:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/cursed_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 00:17:55 +0000"
     },
     "done": true
   },
