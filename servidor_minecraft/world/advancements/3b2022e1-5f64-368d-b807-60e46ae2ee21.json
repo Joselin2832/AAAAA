@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-18 20:24:06 +0000"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-04-19 04:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 22:47:40 +0000"
@@ -1423,6 +1435,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/beer": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 19:58:30 +0000"
@@ -1540,6 +1558,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-04-18 07:09:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-04-19 04:55:07 +0000"
     },
     "done": true
   },
@@ -2079,6 +2103,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-04-19 04:55:07 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-04-18 21:58:02 +0000"
@@ -2148,6 +2178,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-04-18 20:13:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-04-19 04:55:07 +0000"
     },
     "done": true
   },
@@ -2800,6 +2836,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 07:09:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
     },
     "done": true
   },
@@ -3507,6 +3549,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -3579,6 +3627,12 @@
       "has_chest": "2025-04-18 19:53:50 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-19 04:59:21 +0000"
+    },
+    "done": false
   },
   "apotheosis:enchanting/30ench": {
     "criteria": {
@@ -3720,6 +3774,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-19 04:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 19:15:26 +0000"
@@ -3752,9 +3812,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-04-19 04:50:25 +0000"
+      "previous_progression": "2025-04-19 04:50:25 +0000",
+      "yeti": "2025-04-19 04:56:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_cascading_sapling": {
     "criteria": {
@@ -4102,6 +4163,18 @@
   "enigmaticlegacy:recipes/generic/the_acknowledgment": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
     },
     "done": true
   },
@@ -5087,6 +5160,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-04-19 04:56:32 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6062,6 +6141,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
       "log_spam_fixer": "2025-04-18 06:39:47 +0000"
@@ -6241,6 +6326,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-04-18 22:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
     },
     "done": true
   },
@@ -6627,6 +6718,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 04:56:41 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/repository": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -6638,6 +6735,12 @@
       "log_spam_fixer": "2025-04-18 06:39:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-19 04:56:37 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/mycelial_sourcelink": {
     "criteria": {
@@ -7141,9 +7244,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-04-19 00:43:11 +0000"
+      "has_parent_recipe": "2025-04-19 00:43:11 +0000",
+      "has_items": "2025-04-19 04:56:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
