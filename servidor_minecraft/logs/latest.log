@@ -2382,3 +2382,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 05:42:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
 [19Apr2025 05:42:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
 [19Apr2025 05:42:53.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[19Apr2025 05:43:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 3 experience levels to Gress]
+[19Apr2025 05:43:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:44:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:44:07.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/SnowQueen$Phase
+[19Apr2025 05:45:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:45:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Clear Skies]
+[19Apr2025 05:45:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Ultimate Showdown]
+[19Apr2025 05:45:43.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:46:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:46:12.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:47:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:47:16.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 1272.500000, 151.000000, 1592.500000]
+[19Apr2025 05:48:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 1272.500000, 176.000000, 1784.500000]
+[19Apr2025 05:48:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:48:57.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:49:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:49:03.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Huntsman
+[19Apr2025 05:49:03.887] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 05:49:03.888] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Apr2025 05:49:03.888] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 05:49:03.888] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 05:49:03.888] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 05:49:16.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:49:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [I Wish For More Burning]
+[19Apr2025 05:49:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Past the Thorns [NYI]]
+[19Apr2025 05:49:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [So Castle Very Wow [NYI]]
+[19Apr2025 05:49:26.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [I'm on Cloud Nine]
+[19Apr2025 05:49:48.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:49:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Huntsman
+[19Apr2025 05:50:01.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Enraged Troll]
+[19Apr2025 05:50:03.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Troll Hunter]
+[19Apr2025 05:50:54.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Goblin Thief
+[19Apr2025 05:51:02.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [We Do a Little Trolling]
+[19Apr2025 05:51:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:52:03.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 05:52:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Joselin23

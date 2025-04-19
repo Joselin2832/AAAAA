@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-04-19 05:49:26 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-18 19:37:02 +0000"
@@ -907,6 +913,13 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-04-19 05:49:26 +0000",
+      "giant": "2025-04-19 05:48:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-04-18 21:58:02 +0000"
@@ -1099,6 +1112,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-04-19 05:45:39 +0000",
+      "lamp": "2025-04-19 05:49:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -1288,9 +1308,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-04-19 05:16:36 +0000",
+      "snow_queen": "2025-04-19 05:45:39 +0000",
       "ur_ghast": "2025-04-19 05:38:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
@@ -2453,6 +2474,12 @@
     },
     "done": true
   },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-04-19 05:51:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-04-18 06:39:45 +0000"
@@ -2769,6 +2796,13 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 07:10:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_thorns": {
+    "criteria": {
+      "castle": "2025-04-19 05:47:17 +0000",
+      "previous_progression": "2025-04-19 05:49:23 +0000"
     },
     "done": true
   },
@@ -3765,6 +3799,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2025-04-18 21:13:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 05:46:14 +0000"
     },
     "done": true
   },
@@ -5221,6 +5261,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-04-19 05:50:03 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-04-18 17:51:09 +0000"
@@ -5295,9 +5341,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-04-19 04:56:32 +0000"
+      "previous_progression": "2025-04-19 04:56:32 +0000",
+      "queen": "2025-04-19 05:45:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
@@ -6974,6 +7021,13 @@
   "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
     "criteria": {
       "has_plank": "2025-04-18 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_castle": {
+    "criteria": {
+      "castle": "2025-04-19 05:47:17 +0000",
+      "previous_progression": "2025-04-19 05:49:23 +0000"
     },
     "done": true
   },

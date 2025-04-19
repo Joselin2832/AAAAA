@@ -9103,6 +9103,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-04-19 05:42:04 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-18 20:03:58 +0000"
