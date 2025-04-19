@@ -3228,3 +3228,37 @@ java.io.EOFException: null
 [19Apr2025 19:32:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> tp
 [19Apr2025 19:32:29.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> no me dejaaa
 [19Apr2025 19:32:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> tp bug
+[19Apr2025 19:35:10.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> yaporfin
+[19Apr2025 19:36:52.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> no
+[19Apr2025 19:36:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> puedes
+[19Apr2025 19:36:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> traer lava?
+[19Apr2025 19:37:02.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> si
+[19Apr2025 19:37:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> voy
+[19Apr2025 19:37:29.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[19Apr2025 19:37:43.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [Hot Stuff]
+[19Apr2025 19:38:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ten
+[19Apr2025 19:39:03.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/59410, l='ServerLevel[world]', x=1506.50, y=81.00, z=3155.50]
+[19Apr2025 19:39:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> se salio uno
+[19Apr2025 19:39:05.768] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/59440, l='ServerLevel[world]', x=1532.50, y=83.00, z=3171.50]
+[19Apr2025 19:39:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> m exploto la lava
+[19Apr2025 19:39:15.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> XD
+[19Apr2025 19:39:17.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> JAJAJA
+[19Apr2025 19:39:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [What a Deal!]
+[19Apr2025 19:39:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [First Trade]
+[19Apr2025 19:39:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> CIERTO
+[19Apr2025 19:39:41.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> queria la hacha
+[19Apr2025 19:39:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> la compraste vda
+[19Apr2025 19:39:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> ei
+[19Apr2025 19:42:01.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[19Apr2025 19:43:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
+[19Apr2025 19:43:52.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> pero
+[19Apr2025 19:43:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> xd
+[19Apr2025 19:44:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> hay cosas q le pego
+[19Apr2025 19:44:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> y m devuelven daño
+[19Apr2025 19:44:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a saber
+[19Apr2025 19:44:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> noma
+[19Apr2025 19:44:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> qn sabe
+[19Apr2025 19:44:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> aorita buelbo
+[19Apr2025 19:44:23.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 lost connection: Disconnected
+[19Apr2025 19:44:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 left the game
+[19Apr2025 19:45:01.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Skeleton
