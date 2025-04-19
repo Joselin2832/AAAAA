@@ -534,6 +534,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-19 19:13:22 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-04-18 02:17:14 +0000"
@@ -2176,6 +2182,12 @@
     "criteria": {
       "requirement": "2025-04-18 02:11:23 +0000",
       "log_spam_fixer": "2025-04-18 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-04-19 19:07:00 +0000"
     },
     "done": true
   },
@@ -4466,6 +4478,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-18 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-04-19 19:06:30 +0000"
     },
     "done": true
   },
