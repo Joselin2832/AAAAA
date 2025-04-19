@@ -1668,3 +1668,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 00:44:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
 [19Apr2025 00:44:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was blown up by Creeper
 [19Apr2025 00:45:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 00:45:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:45:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[19Apr2025 00:45:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[19Apr2025 00:45:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Summoned new Creeper]
+[19Apr2025 00:45:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:46:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Isn't It Iron Pick]
+[19Apr2025 00:46:54.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[19Apr2025 00:47:19.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Unbreaking X]
+[19Apr2025 00:48:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 2 [Striped Sacred Log] to Joselin23]
+[19Apr2025 00:48:26.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:48:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:48:56.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:49:05.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:50:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 00:50:39.550] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=1154, y=66, z=3372} as the loot table 'kaisyn:village/village_birch_forest_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19Apr2025 00:50:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 00:51:49.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[19Apr2025 00:51:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 has made the advancement [When in Rome]
+[19Apr2025 00:52:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 00:53:20.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/44649, l='ServerLevel[world]', x=1146.30, y=44.50, z=3428.30] died: Yomach the Toxic was slain by Lophez341
+[19Apr2025 00:53:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 00:53:53.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[19Apr2025 00:53:53.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[19Apr2025 00:53:55.851] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
+[19Apr2025 00:54:05.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
