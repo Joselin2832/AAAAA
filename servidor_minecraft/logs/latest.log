@@ -1997,3 +1997,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 02:05:44.652] [Worker-Main6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Apr2025 02:06:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> a
 [19Apr2025 02:07:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown entity: minecraft:mutantcreeper
+[19Apr2025 02:14:39.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has made the advancement [Tools of the Trade]
+[19Apr2025 02:17:30.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/98264, l='ServerLevel[world]', x=1524.50, y=77.00, z=3204.50]
