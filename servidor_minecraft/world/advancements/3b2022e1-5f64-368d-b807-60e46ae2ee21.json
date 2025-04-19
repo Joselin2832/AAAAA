@@ -3831,12 +3831,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-04-19 05:52:36 +0000"
-    },
-    "done": false
-  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-04-19 04:19:42 +0000"

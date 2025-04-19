@@ -2431,3 +2431,69 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 05:58:22.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
 [19Apr2025 05:58:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Gress
 [19Apr2025 06:00:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Flawless Crystals]
+[19Apr2025 06:07:22.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress was slain by Joselin23
+[19Apr2025 06:07:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Gress
+[19Apr2025 06:07:47.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Gress]
+[19Apr2025 06:12:04.969] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:12:04.995] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:12:04.996] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:12:04.996] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:12:05.268] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:12:05.269] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:12:05.270] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:12:05.271] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:12:05.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:12:05.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:12:05.388] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:12:05.388] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:12:07.747] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:12:07.753] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:12:07.769] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:12:07.859] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53a3c6fb
+[19Apr2025 06:12:07.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lophez341[/127.214.85.198:60333] logged in with entity id 240434 at (1105.543776935391, 64.0, 3363.576119328722)
+[19Apr2025 06:12:07.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lophez341
+[19Apr2025 06:12:07.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lophez341
+[19Apr2025 06:12:07.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lophez341
+[19Apr2025 06:12:07.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lophez341
+[19Apr2025 06:12:07.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lophez341
+[19Apr2025 06:12:07.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lophez341
+[19Apr2025 06:12:07.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lophez341
+[19Apr2025 06:12:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 joined the game
+[19Apr2025 06:12:07.984] [Server thread/INFO] [Jade/]: Syncing config to Lophez341 (cb2e0971-64cb-3005-a2fd-51e965e9777b)
+[19Apr2025 06:12:07.990] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lophez341...
+[19Apr2025 06:12:07.990] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:12:07.991] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lophez341
+[19Apr2025 06:12:35.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 was slain by Gress
+[19Apr2025 06:12:43.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[19Apr2025 06:12:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[19Apr2025 06:13:06.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[19Apr2025 06:13:06.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[19Apr2025 06:13:20.001] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:13:20.001] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:13:20.058] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:13:20.116] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:13:20.173] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:13:20.231] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:13:20.289] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:13:20.346] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:13:20.401] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:13:20.404] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:13:20.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:13:20.516] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:13:21.957] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:13:21.998] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:13:21.998] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:13:22.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75d2ca40
+[19Apr2025 06:13:22.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.185.233.136:52581] logged in with entity id 241338 at (1058.3953332733943, 63.0, 3357.670505325302)
+[19Apr2025 06:13:22.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[19Apr2025 06:13:22.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[19Apr2025 06:13:22.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[19Apr2025 06:13:22.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[19Apr2025 06:13:22.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[19Apr2025 06:13:22.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[19Apr2025 06:13:22.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[19Apr2025 06:13:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[19Apr2025 06:13:22.244] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[19Apr2025 06:13:22.251] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[19Apr2025 06:13:22.251] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:13:22.252] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23

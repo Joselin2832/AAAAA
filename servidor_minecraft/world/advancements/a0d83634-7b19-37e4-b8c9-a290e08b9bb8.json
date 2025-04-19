@@ -4968,6 +4968,12 @@
     },
     "done": true
   },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2025-04-19 06:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 02:16:15 +0000"
