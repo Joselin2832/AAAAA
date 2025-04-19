@@ -2253,6 +2253,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-19 00:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 22:38:15 +0000"
@@ -3288,12 +3294,6 @@
       "has_chest": "2025-04-18 19:53:50 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-04-18 23:06:34 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -5531,6 +5531,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-18 23:08:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 00:04:20 +0000"
     },
     "done": true
   },

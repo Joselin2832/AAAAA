@@ -1852,6 +1852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2025-04-19 00:10:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-04-18 02:14:55 +0000"
@@ -5957,6 +5963,12 @@
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2025-04-18 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-19 00:09:10 +0000"
     },
     "done": true
   },

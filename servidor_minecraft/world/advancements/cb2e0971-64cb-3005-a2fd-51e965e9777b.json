@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-04-19 00:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 04:41:23 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 04:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2025-04-18 04:16:31 +0000"
@@ -392,6 +410,12 @@
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-04-18 04:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-19 00:03:51 +0000"
     },
     "done": true
   },
@@ -530,6 +554,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-18 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_chain": "2025-04-19 00:09:47 +0000"
     },
     "done": true
   },
@@ -720,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-04-18 04:13:03 +0000"
@@ -807,6 +843,12 @@
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 00:03:53 +0000"
     },
     "done": true
   },
@@ -1230,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2025-04-18 04:04:07 +0000"
@@ -1581,6 +1629,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_chain": "2025-04-19 00:09:47 +0000"
+    },
+    "done": true
+  },
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
       "yucca_flower": "2025-04-18 22:28:30 +0000",
@@ -1859,6 +1913,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 04:29:42 +0000"
@@ -1922,6 +1982,12 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-18 18:17:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-19 00:03:11 +0000"
     },
     "done": true
   },
@@ -3279,7 +3345,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-04-18 23:56:04 +0000"
+      "target": "2025-04-19 00:09:23 +0000"
     },
     "done": false
   },
@@ -3651,6 +3717,12 @@
     },
     "done": true
   },
+  "vinery:dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_20": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -3835,6 +3907,12 @@
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
@@ -4325,6 +4403,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_chain": "2025-04-19 00:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-18 19:53:34 +0000"
@@ -4803,6 +4887,12 @@
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-04-18 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
@@ -5826,6 +5916,12 @@
     },
     "done": true
   },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_box": {
     "criteria": {
       "has_glass": "2025-04-18 22:40:17 +0000"
@@ -6187,6 +6283,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/tankard": {
+    "criteria": {
+      "has_nugget": "2025-04-19 00:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-04-18 23:14:06 +0000"
@@ -6212,9 +6314,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-18 04:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
@@ -6281,6 +6395,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-18 22:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
@@ -6353,6 +6473,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-04-18 22:33:05 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-04-19 00:09:38 +0000"
     },
     "done": true
   },
@@ -6934,6 +7060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -7048,6 +7180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-19 00:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 23:24:41 +0000"
@@ -7124,6 +7262,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-04-18 17:55:25 +0000"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_chain": "2025-04-19 00:09:47 +0000"
     },
     "done": true
   },
@@ -7268,6 +7412,12 @@
   "enigmaticlegacy:book/relics/golem_heart": {
     "criteria": {
       "has_items": "2025-04-18 18:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 00:09:04 +0000"
     },
     "done": true
   },
