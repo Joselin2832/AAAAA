@@ -3037,3 +3037,20 @@ java.io.EOFException: null
 [19Apr2025 18:22:44.373] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [19Apr2025 18:22:44.373] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [19Apr2025 18:22:49.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[19Apr2025 18:23:17.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[19Apr2025 18:23:19.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[19Apr2025 18:23:20.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[19Apr2025 18:23:20.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[19Apr2025 18:23:21.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[19Apr2025 18:23:21.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[19Apr2025 18:23:21.371] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[19Apr2025 18:23:21.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[19Apr2025 18:23:51.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[19Apr2025 18:24:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Skeleton
+[19Apr2025 18:24:40.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[19Apr2025 18:24:40.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[19Apr2025 18:25:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Skeleton
+[19Apr2025 18:27:02.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Apr2025 18:27:38.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gress> q buscas en el nether
+[19Apr2025 18:28:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> varitas de bleis
+[19Apr2025 18:28:18.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lophez341> pero ya
