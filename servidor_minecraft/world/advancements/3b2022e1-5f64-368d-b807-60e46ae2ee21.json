@@ -1445,6 +1445,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-04-19 06:15:30 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 23:17:21 +0000"
@@ -3438,15 +3444,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-04-19 04:38:00 +0000"
-    },
-    "done": true
-  },
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2025-04-19 04:14:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-04-19 04:38:00 +0000"
     },
     "done": true
   },
@@ -6561,15 +6567,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/twilightforest/equipment/fiery_sword": {
-    "criteria": {
-      "has_item": "2025-04-19 06:00:17 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/wood/twilight_oak_trapdoor": {
     "criteria": {
       "has_item": "2025-04-19 04:40:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 06:00:17 +0000"
     },
     "done": true
   },

@@ -1388,6 +1388,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2025-04-19 06:19:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:37:05 +0000"
@@ -3887,6 +3893,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 06:19:32 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
     "criteria": {
       "has_stick": "2025-04-18 02:10:35 +0000"
@@ -5650,6 +5662,12 @@
       "has_netherite_boots": "2025-04-18 23:17:24 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "trophy": "2025-04-19 06:19:32 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
@@ -7575,6 +7593,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 06:19:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2025-04-18 02:16:15 +0000"
@@ -8816,6 +8840,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 21:15:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 06:19:31 +0000"
     },
     "done": true
   },
