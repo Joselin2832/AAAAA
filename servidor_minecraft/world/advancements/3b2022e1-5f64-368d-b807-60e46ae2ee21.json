@@ -583,9 +583,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-04-19 04:50:25 +0000"
+      "kill_lich": "2025-04-19 04:50:25 +0000",
+      "trophy_pedestal": "2025-04-19 05:19:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -1230,6 +1231,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-18 20:38:31 +0000"
@@ -1277,6 +1284,12 @@
       "iron_pickaxe": "2025-04-19 00:46:38 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-04-19 05:16:36 +0000"
+    },
+    "done": false
   },
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
@@ -1477,6 +1490,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-04-19 05:19:42 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2025-04-18 19:57:14 +0000"
@@ -1674,6 +1693,12 @@
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-04-19 05:20:17 +0000"
     },
     "done": true
   },
@@ -2424,6 +2449,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 22:00:15 +0000"
@@ -2486,9 +2517,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-04-19 05:16:36 +0000",
       "stroganoff": "2025-04-19 05:10:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
@@ -3653,12 +3685,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-04-19 05:05:39 +0000"
-    },
-    "done": false
-  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-04-19 04:19:42 +0000"
@@ -4575,6 +4601,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_15": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
@@ -4821,6 +4853,12 @@
   "dungeons_arise:find_shiraz_palace": {
     "criteria": {
       "location0": "2025-04-18 23:08:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
     },
     "done": true
   },
@@ -6372,6 +6410,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2025-04-18 18:05:49 +0000"
@@ -6487,6 +6531,12 @@
       "has_items2": "2025-04-18 20:13:08 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -6608,6 +6658,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-04-19 05:16:48 +0000"
     },
     "done": true
   },
@@ -7289,6 +7345,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 06:39:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-04-19 05:16:47 +0000"
     },
     "done": true
   },

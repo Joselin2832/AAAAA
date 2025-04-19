@@ -2330,3 +2330,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Apr2025 05:10:06.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to 264.500000, 5.000000, 3368.500000]
 [19Apr2025 05:10:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
 [19Apr2025 05:10:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Mighty Stroganoff]
+[19Apr2025 05:13:04.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress has completed the challenge [Infinity Stones]
+[19Apr2025 05:13:58.855] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
+[19Apr2025 05:16:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Hydra Slayer]
+[19Apr2025 05:18:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 05:19:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to -518.500000, 0.000000, 2584.500000]
+[19Apr2025 05:19:21.827] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-311}
+[19Apr2025 05:19:21.827] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-306}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-309}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-306}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-309}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=9, z=-303}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=9, z=-303}
+[19Apr2025 05:19:21.828] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=9, z=-301}
+[19Apr2025 05:19:23.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 05:19:41.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has reached the goal [Trophied Champion]
+[19Apr2025 05:22:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 05:22:42.001] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler

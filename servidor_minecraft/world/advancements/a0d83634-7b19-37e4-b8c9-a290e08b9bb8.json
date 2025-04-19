@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 05:15:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
       "location0": "2025-04-18 21:15:16 +0000"
@@ -921,6 +927,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-04-19 05:18:35 +0000"
     },
     "done": true
   },
@@ -1786,6 +1798,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 05:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-04-18 03:33:16 +0000"
@@ -2128,6 +2146,12 @@
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-18 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 05:15:56 +0000"
     },
     "done": true
   },
@@ -2527,6 +2551,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-04-18 03:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 05:13:38 +0000"
     },
     "done": true
   },
@@ -2992,6 +3022,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-04-19 05:18:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -3133,6 +3169,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 05:15:56 +0000"
     },
     "done": true
   },
@@ -3493,6 +3535,12 @@
   "ars_nouveau:recipes/ars_nouveau/green_sbed": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/celestisynth.celestisynth_tab/celestial_core": {
+    "criteria": {
+      "has_item": "2025-04-19 05:13:38 +0000"
     },
     "done": true
   },
@@ -4108,6 +4156,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/ancient_gem": {
+    "criteria": {
+      "gem": "2025-04-19 05:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-18 19:54:25 +0000"
@@ -4267,6 +4321,12 @@
   "oriacs:recipes/combat/chainmembrane_helmet": {
     "criteria": {
       "has_phantom_membrane": "2025-04-18 03:01:44 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 05:13:38 +0000"
     },
     "done": true
   },
@@ -4886,6 +4946,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-18 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 05:13:38 +0000"
     },
     "done": true
   },
@@ -7490,6 +7556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 05:15:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-04-19 01:01:38 +0000"
@@ -7691,6 +7763,12 @@
   "nethersdelight:recipes/nethersdelight/hoglin_sirloin_from_smoking": {
     "criteria": {
       "hoglin_sirloin": "2025-04-18 02:41:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-04-19 05:18:30 +0000"
     },
     "done": true
   },
@@ -7902,6 +7980,12 @@
   "ars_elemental:recipes/ars_elemental/spore_blossom_up": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-19 05:13:38 +0000"
     },
     "done": true
   },
