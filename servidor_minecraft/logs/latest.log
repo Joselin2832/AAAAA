@@ -2922,3 +2922,128 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [19Apr2025 06:34:13.394] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
 [19Apr2025 06:34:13.395] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
 [19Apr2025 06:34:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has made the advancement [Magnificence]
+[19Apr2025 06:35:42.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joselin23 lost connection: Disconnected
+[19Apr2025 06:35:42.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 left the game
+[19Apr2025 06:38:26.087] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:38:26.131] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:38:26.131] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:38:26.188] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:38:26.246] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:38:26.302] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:38:26.359] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:38:26.359] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:38:26.417] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:38:26.474] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:38:26.533] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:38:26.592] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:38:27.703] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:38:27.744] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:38:27.744] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:38:27.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57457095
+[19Apr2025 06:38:27.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joselin23[/127.185.233.136:47639] logged in with entity id 258568 at (1085.300000011921, 63.0, 3341.9774249069087)
+[19Apr2025 06:38:27.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joselin23
+[19Apr2025 06:38:27.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joselin23
+[19Apr2025 06:38:27.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joselin23
+[19Apr2025 06:38:27.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joselin23
+[19Apr2025 06:38:27.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joselin23
+[19Apr2025 06:38:27.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joselin23
+[19Apr2025 06:38:27.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joselin23
+[19Apr2025 06:38:27.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 joined the game
+[19Apr2025 06:38:27.886] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:27.887] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:27.887] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:38:27.952] [Server thread/INFO] [Jade/]: Syncing config to Joselin23 (3b2022e1-5f64-368d-b807-60e46ae2ee21)
+[19Apr2025 06:38:27.956] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Joselin23...
+[19Apr2025 06:38:27.956] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:38:27.956] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Joselin23
+[19Apr2025 06:38:31.204] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:38:31.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:38:32.158] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:32.158] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:40.955] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:38:42.755] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:38:51.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:51.505] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:52.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:38:52.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:39:08.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gress lost connection: Disconnected
+[19Apr2025 06:39:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress left the game
+[19Apr2025 06:39:14.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[19Apr2025 06:39:15.035] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 06:39:15.036] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[19Apr2025 06:39:15.036] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[19Apr2025 06:39:15.036] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[19Apr2025 06:39:15.036] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 06:39:16.474] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:39:16.474] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:39:16.474] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:39:25.218] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 211
+[19Apr2025 06:39:25.265] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[19Apr2025 06:39:25.312] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[19Apr2025 06:39:25.360] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[19Apr2025 06:39:25.406] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[19Apr2025 06:39:25.453] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[19Apr2025 06:39:25.499] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[19Apr2025 06:39:25.546] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[19Apr2025 06:39:25.593] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[19Apr2025 06:39:25.642] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[19Apr2025 06:39:25.690] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[19Apr2025 06:39:25.739] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[19Apr2025 06:39:26.366] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[19Apr2025 06:39:26.406] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[19Apr2025 06:39:26.406] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[19Apr2025 06:39:26.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b3cb293
+[19Apr2025 06:39:26.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gress[/127.17.127.16:34581] logged in with entity id 259285 at (-590.4505838557618, 15.0, 111.57344495086392)
+[19Apr2025 06:39:26.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Gress
+[19Apr2025 06:39:26.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Gress
+[19Apr2025 06:39:26.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Gress
+[19Apr2025 06:39:26.538] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Gress
+[19Apr2025 06:39:26.539] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Gress
+[19Apr2025 06:39:26.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Gress
+[19Apr2025 06:39:26.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Gress
+[19Apr2025 06:39:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gress joined the game
+[19Apr2025 06:39:26.585] [Server thread/INFO] [Jade/]: Syncing config to Gress (a0d83634-7b19-37e4-b8c9-a290e08b9bb8)
+[19Apr2025 06:39:26.588] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Gress...
+[19Apr2025 06:39:26.588] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[19Apr2025 06:39:26.589] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Gress
+[19Apr2025 06:39:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:39:59.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved wrongly!
+[19Apr2025 06:40:45.205] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:40:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Spectator Mode]
+[19Apr2025 06:40:52.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:40:55.455] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:41:14.521] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:41:14.814] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:41:14.814] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:41:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:42:02.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Applied enchantment Protection V to Joselin23's item]
+[19Apr2025 06:42:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:42:10.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 moved wrongly!
+[19Apr2025 06:43:17.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:43:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:43:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 06:43:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 06:44:44.402] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:44.403] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:44.954] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:44.955] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Joselin23 to Lophez341]
+[19Apr2025 06:44:46.509] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:46.509] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 was slain by Zombie
+[19Apr2025 06:44:51.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:51.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:44:51.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:44:54.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:44:57.355] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:44:57.832] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:44:59.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:44:59.382] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lophez341'/262523, l='ServerLevel[world]', x=1160.64, y=36.00, z=3438.42] died: Lophez341 was slain by Joselin23
+[19Apr2025 06:45:02.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:02.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:04.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:04.330] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:07.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 06:45:09.900] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:09.901] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 06:45:10.901] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]

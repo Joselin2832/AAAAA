@@ -3607,6 +3607,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-04-19 06:34:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 19:58:30 +0000"
@@ -5682,6 +5688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-19 06:31:27 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:16 +0000"
@@ -7256,6 +7268,12 @@
   "aether:recipes/tools/golden_hoe_repairing": {
     "criteria": {
       "has_golden_hoe": "2025-04-19 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:trials_and_talismans": {
+    "criteria": {
+      "trials_and_talismans": "2025-04-19 06:32:01 +0000"
     },
     "done": true
   },

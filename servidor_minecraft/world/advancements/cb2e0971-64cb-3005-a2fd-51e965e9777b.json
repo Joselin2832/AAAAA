@@ -2185,6 +2185,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 04:29:34 +0000"
@@ -2320,6 +2326,12 @@
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -2791,6 +2803,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_chest_boat": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -2830,6 +2848,12 @@
   "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-04-19 06:34:09 +0000"
     },
     "done": true
   },
@@ -3810,6 +3834,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -4903,6 +4933,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:00 +0000"
@@ -5068,6 +5104,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-18 04:10:37 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -5505,6 +5547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-19 06:34:08 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-04-18 18:46:21 +0000"
@@ -5721,6 +5769,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-18 04:18:05 +0000"
@@ -5730,6 +5784,12 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-04-18 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -5754,6 +5814,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-19 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/aurum_chest_boat": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -6516,6 +6582,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-04-18 04:16:31 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },
@@ -7554,6 +7626,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-04-18 04:02:01 +0000"
@@ -7773,6 +7851,12 @@
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-04-18 23:24:16 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_chest_boat": {
+    "criteria": {
+      "has_chest": "2025-04-19 06:34:06 +0000"
     },
     "done": true
   },

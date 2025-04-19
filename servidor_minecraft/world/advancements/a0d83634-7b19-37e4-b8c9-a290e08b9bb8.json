@@ -1828,6 +1828,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-04-19 06:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-18 19:58:25 +0000"
