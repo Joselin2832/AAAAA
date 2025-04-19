@@ -3138,3 +3138,23 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [19Apr2025 07:03:40.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 200 experience levels to Joselin23]
 [19Apr2025 07:05:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
 [19Apr2025 07:05:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:06:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:06:27.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:07:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:07:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:08:00.408] [Worker-Main215/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 3081 98 4389
+[19Apr2025 07:08:33.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Teleported Gress to Joselin23]
+[19Apr2025 07:08:33.192] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 07:08:33.195] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:08:33.197] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:08:33.443] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Cursed Head'/253661, l='ServerLevel[world]', x=1103.35, y=64.16, z=3359.78, removed=DISCARDED]
+[19Apr2025 07:08:33.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253461, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:08:33.447] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Wistiver's Jaws'/253459, l='ServerLevel[world]', x=1102.38, y=63.00, z=3357.90, removed=DISCARDED]
+[19Apr2025 07:09:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Creative Mode]
+[19Apr2025 07:09:58.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Set own game mode to Survival Mode]
+[19Apr2025 07:10:23.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lophez341 lost connection: Disconnected
+[19Apr2025 07:10:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lophez341 left the game
+[19Apr2025 07:11:58.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joselin23 has completed the challenge [Lawbringer]
+[19Apr2025 07:13:10.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 15 [Wisdom Scroll] to Joselin23]
+[19Apr2025 07:14:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 1 [Shield] to Joselin23]
+[19Apr2025 07:16:08.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joselin23: Gave 15 [Wisdom Scroll] to Joselin23]
