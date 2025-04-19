@@ -6703,6 +6703,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-04-19 02:49:03 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-04-18 02:08:41 +0000"
@@ -6748,6 +6754,12 @@
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_planks": "2025-04-18 02:08:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-19 02:37:32 +0000"
     },
     "done": true
   },
